@@ -64,6 +64,7 @@ jobs:
             # Commit and push if changes are present
             if git status --porcelain | grep -q .; then
               git commit -am "[data ${{ inputs.workflow }} ${{ inputs.name }}]: automatic update data $(date)"
+              git pull origin main --rebase
               git push
             else
               echo "No changes detected in the working directory, skipping commit and push."
