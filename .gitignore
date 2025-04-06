@@ -172,3 +172,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+
+### CUSTOM
+.task
+*.db.wal
+.task/*
+!assets/images/* 
+logs/
+*.duckdb
+*.duckdb.wal
+

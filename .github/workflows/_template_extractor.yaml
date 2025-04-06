@@ -1,0 +1,68 @@
+name: 'Template Extractor'
+description: 'Run templated extractor process'
+
+on:
+  workflow_call:
+    inputs:
+      name:
+        description: 'name'
+        required: true
+      path_python_file:
+        description: 'path to the python function'
+        required: true
+      workflow:
+        description: 'workflow'
+        required: true
+
+jobs:
+  templated:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Caching requirements.txt
+        uses: actions/cache@v3
+        id: cache-req-requirements
+        with:
+          path: ${{ env.pythonLocation }}
+          key: ${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Install requirements
+        if: steps.cache-req-requirements.outputs.cache-hit != 'true'
+        run: pip install -r requirements.txt
+
+      - name: Run update data esquemas
+        run: python -m ${{ inputs.path_python_file }}
+
+      - name: Check if there are changes
+        run: |
+          git diff --quiet
+          if [ $? -eq 0 ]; then
+            echo "No changes detected for ${{ inputs.workflow }} -->> ${{ inputs.name }}, skipping commit and push."
+            exit 0
+          else
+            echo "Changes detected!"
+          fi
+
+      - name: Commit and Push if Changes Detected
+        run: |
+          git config --global user.name adntayer
+          git config --global user.email 'adntayer@users.noreply.github.com'
+
+          # Check if there are changes before committing
+          if [[ $(git status --porcelain) ]]; then
+            git commit -am  "[data ${{ inputs.workflow }} ${{ inputs.name }}]: automatic update data ${{ steps.date.outputs.date }}"
+            git push
+          else
+            echo "No changes detected, skipping commit and push."
+          fi
