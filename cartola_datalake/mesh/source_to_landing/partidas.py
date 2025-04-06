@@ -1,6 +1,5 @@
 # python -m cartola_datalake.mesh.source_to_landing.partidas
 import os
-from datetime import datetime
 
 import requests
 
@@ -20,7 +19,6 @@ def main(rodada):
     r = requests.get(url)
     data = r.json()
 
-    now = datetime.now().strftime('%Y_%m_%d')
     path_partidas = os.path.join(os.getcwd(), 'datalake', '01-landing', f'season-{SEASON_STR}', 'partidas', f'rodada-{str(rodada).zfill(2)}', f'partidas_rodada_{str(rodada).zfill(2)}.json')
     path_dir = os.path.dirname(path_partidas)
     os.makedirs(path_dir, exist_ok=True)
