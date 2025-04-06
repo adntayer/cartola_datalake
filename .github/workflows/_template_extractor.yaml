@@ -6,17 +6,23 @@ on:
     inputs:
       name:
         description: 'name'
+        type: string
         required: true
       path_python_file:
         description: 'path to the python function'
+        type: string
         required: true
       workflow:
         description: 'workflow'
+        type: string
         required: true
 
 jobs:
-  templated:
+  source_to_landing:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -41,28 +47,25 @@ jobs:
         if: steps.cache-req-requirements.outputs.cache-hit != 'true'
         run: pip install -r requirements.txt
 
-      - name: Run update data esquemas
+      - name: Run update data
         run: python -m ${{ inputs.path_python_file }}
 
-      - name: Check if there are changes
+      - name: Check for changes, Commit, and Push if needed
         run: |
-          git diff --quiet
-          if [ $? -eq 0 ]; then
+          # Set up Git configuration
+          git config --global user.name "adntayer"
+          git config --global user.email "adntayer@users.noreply.github.com"
+
+          if git diff --quiet; then
             echo "No changes detected for ${{ inputs.workflow }} -->> ${{ inputs.name }}, skipping commit and push."
             exit 0
           else
             echo "Changes detected!"
-          fi
-
-      - name: Commit and Push if Changes Detected
-        run: |
-          git config --global user.name adntayer
-          git config --global user.email 'adntayer@users.noreply.github.com'
-
-          # Check if there are changes before committing
-          if [[ $(git status --porcelain) ]]; then
-            git commit -am  "[data ${{ inputs.workflow }} ${{ inputs.name }}]: automatic update data ${{ steps.date.outputs.date }}"
-            git push
-          else
-            echo "No changes detected, skipping commit and push."
+            # Commit and push if changes are present
+            if git status --porcelain | grep -q .; then
+              git commit -am "[data ${{ inputs.workflow }} ${{ inputs.name }}]: automatic update data $(date)"
+              git push
+            else
+              echo "No changes detected in the working directory, skipping commit and push."
+            fi
           fi

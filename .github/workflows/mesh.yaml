@@ -1,73 +1,42 @@
 name: Mesh Run
 
 on:
-  workflow_dispatch: null
+  workflow_dispatch:
   schedule:
     - cron: '15 10,19 * * *'
 
 jobs:
+  job_01_src_to_lnd_atletas_mercado:
+    uses: ./.github/workflows/_template_extractor.yaml
+    with:
+      name: 'atletas mercado'
+      path_python_file: 'cartola_datalake.mesh.source_to_landing.atletas_mercado'
+      workflow: 'source-to-landing'
 
-  job_01_source_to_landing_atletas_mercado:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+  job_01_src_to_lnd_pontuados:
+    uses: ./.github/workflows/_template_extractor.yaml
+    with:
+      name: 'pontuados'
+      path_python_file: 'cartola_datalake.mesh.source_to_landing.pontuados'
+      workflow: 'source-to-landing'
 
-      - name: source to landing atletas mercado
-        uses: ./.github/workflows/_template_extractor.yaml
-        with:
-          name: 'atletas mercado'
-          path_python_file: 'cartola_datalake.mesh.source_to_landing.atletas_mercado'
-          workflow: 'source-to-landing'
+  job_01_src_to_lnd_partidas:
+    uses: ./.github/workflows/_template_extractor.yaml
+    with:
+      name: 'partidas'
+      path_python_file: 'cartola_datalake.mesh.source_to_landing.partidas'
+      workflow: 'source-to-landing'
 
-  job_01_source_to_landing_pontuados:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+  job_01_src_to_lnd_clubes:
+    uses: ./.github/workflows/_template_extractor.yaml
+    with:
+      name: 'clubes'
+      path_python_file: 'cartola_datalake.mesh.source_to_landing.clubes'
+      workflow: 'source-to-landing'
 
-      - name: source to landing pontuados
-        uses: ./.github/workflows/_template_extractor.yaml
-        with:
-          name: 'pontuados'
-          path_python_file: 'cartola_datalake.mesh.source_to_landing.pontuados'
-          workflow: 'source-to-landing'
-
-  job_01_source_to_landing_partidas:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: source to landing partidas
-        uses: ./.github/workflows/_template_extractor.yaml
-        with:
-          name: 'partidas'
-          path_python_file: 'cartola_datalake.mesh.source_to_landing.partidas'
-          workflow: 'source-to-landing'
-
-  job_01_source_to_landing_clubes:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: source to landing clubes
-        uses: ./.github/workflows/_template_extractor.yaml
-        with:
-          name: 'clubes'
-          path_python_file: 'cartola_datalake.mesh.source_to_landing.clubes'
-          workflow: 'source-to-landing'
-
-  job_01_source_to_landing_esquemas:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: source to landing esquemas
-        uses: ./.github/workflows/_template_extractor.yaml
-        with:
-          name: 'esquemas'
-          path_python_file: 'cartola_datalake.mesh.source_to_landing.esquemas'
-          workflow: 'source-to-landing'
+  job_01_src_to_lnd_esquemas:
+    uses: ./.github/workflows/_template_extractor.yaml
+    with:
+      name: 'esquemas'
+      path_python_file: 'cartola_datalake.mesh.source_to_landing.esquemas'
+      workflow: 'source-to-landing'
