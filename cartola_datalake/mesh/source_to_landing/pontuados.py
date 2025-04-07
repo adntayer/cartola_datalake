@@ -26,7 +26,7 @@ def main(rodada):
 
     hash_url = calculate_dict_checksum(data)
     now = datetime.now().strftime('%Y_%m_%d_%H_%M')
-    path_pontuados = os.path.join(os.getcwd(), 'datalake', '01-landing', f'season-{SEASON_STR}', 'pontuados', f'rodada-{str(rodada).zfill(2)}', f'{now}_pontuados_rodada_{str(rodada).zfill(2)}.json')
+    path_pontuados = os.path.join(os.getcwd(), 'datalake', '01-landing', f'season-{SEASON_STR}', 'pontuados', f'rodada-{str(rodada).zfill(2)}', f'{now}_pontuados_rodada_{str(rodada).zfill(2)}.json.gz')
     path_dir = os.path.dirname(path_pontuados)
     os.makedirs(path_dir, exist_ok=True)
 
