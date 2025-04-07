@@ -65,7 +65,7 @@ jobs:
             echo "$changes"
             echo "commiting..."
             git add .
-            git commit -m "[data ${{ inputs.workflow }} ${{ inputs.name }}]: automatic update data $(date)"
+            git commit -m "📡 [data ${{ inputs.workflow }} ${{ inputs.name }}]: automatic update data $(date)"
             echo "rebasing..."
             git pull origin main --rebase
             git push
