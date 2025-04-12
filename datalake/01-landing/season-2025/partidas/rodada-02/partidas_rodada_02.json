@@ -286,9 +286,9 @@
             "aproveitamento_visitante": [
                 "",
                 "",
-                "",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "",
@@ -322,16 +322,16 @@
             "aproveitamento_visitante": [
                 "",
                 "",
-                "",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "",
                 "",
-                "",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -358,16 +358,16 @@
             "aproveitamento_visitante": [
                 "",
                 "",
-                "",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "",
                 "",
-                "",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -581,9 +581,9 @@
             "aproveitamento_mandante": [
                 "",
                 "",
-                "",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -610,16 +610,16 @@
             "aproveitamento_visitante": [
                 "",
                 "",
-                "",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "",
                 "",
-                "",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",

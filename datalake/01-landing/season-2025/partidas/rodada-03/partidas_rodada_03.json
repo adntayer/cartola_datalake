@@ -322,16 +322,16 @@
             "aproveitamento_visitante": [
                 "",
                 "",
-                "",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "",
                 "",
-                "",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -358,16 +358,16 @@
             "aproveitamento_visitante": [
                 "",
                 "",
-                "",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "",
                 "",
-                "",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -430,16 +430,16 @@
             "aproveitamento_visitante": [
                 "",
                 "",
-                "",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "",
                 "",
-                "",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -610,16 +610,16 @@
             "aproveitamento_visitante": [
                 "",
                 "",
-                "",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "",
                 "",
-                "",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
