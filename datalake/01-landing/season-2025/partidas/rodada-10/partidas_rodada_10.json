@@ -301,78 +301,6 @@
                 "label": "",
                 "url": ""
             },
-            "local": "Allianz Parque",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
-            "partida_data": "2025-05-25 16:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
-            "partida_id": 334089,
-            "clube_visitante_posicao": 0,
-            "clube_visitante_id": 262,
-            "clube_casa_posicao": 0,
-            "clube_casa_id": 275,
-            "timestamp": 1748199600,
-            "campeonato_id": 26,
-            "valida": true
-        },
-        {
-            "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "transmissao": {
-                "label": "",
-                "url": ""
-            },
-            "local": "Ilha do Retiro",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
-            "partida_data": "2025-05-25 16:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
-            "partida_id": 334096,
-            "clube_visitante_posicao": 0,
-            "clube_visitante_id": 285,
-            "clube_casa_posicao": 0,
-            "clube_casa_id": 292,
-            "timestamp": 1748199600,
-            "campeonato_id": 26,
-            "valida": true
-        },
-        {
-            "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "transmissao": {
-                "label": "",
-                "url": ""
-            },
             "local": " ",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
@@ -409,11 +337,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Nilton Santos (Engenhão)",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-05-25 20:30:00",
+            "partida_data": "2025-06-04 20:00:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -422,7 +350,43 @@
             "clube_visitante_id": 354,
             "clube_casa_posicao": 0,
             "clube_casa_id": 263,
-            "timestamp": 1748215800,
+            "timestamp": 1749078000,
+            "campeonato_id": 26,
+            "valida": true
+        },
+        {
+            "aproveitamento_visitante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "aproveitamento_mandante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "transmissao": {
+                "label": "",
+                "url": ""
+            },
+            "local": "Allianz Parque",
+            "status_transmissao_tr": "",
+            "status_cronometro_tr": "",
+            "periodo_tr": "",
+            "partida_data": "2025-05-25 16:00:00",
+            "inicio_cronometro_tr": "",
+            "placar_oficial_visitante": null,
+            "placar_oficial_mandante": null,
+            "partida_id": 334089,
+            "clube_visitante_posicao": 0,
+            "clube_visitante_id": 262,
+            "clube_casa_posicao": 0,
+            "clube_casa_id": 275,
+            "timestamp": 1748199600,
             "campeonato_id": 26,
             "valida": true
         },
@@ -639,6 +603,42 @@
             "clube_casa_posicao": 0,
             "clube_casa_id": 356,
             "timestamp": 1748215800,
+            "campeonato_id": 26,
+            "valida": true
+        },
+        {
+            "aproveitamento_visitante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "aproveitamento_mandante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "transmissao": {
+                "label": "",
+                "url": ""
+            },
+            "local": "Ilha do Retiro",
+            "status_transmissao_tr": "",
+            "status_cronometro_tr": "",
+            "periodo_tr": "",
+            "partida_data": "2025-05-25 16:00:00",
+            "inicio_cronometro_tr": "",
+            "placar_oficial_visitante": null,
+            "placar_oficial_mandante": null,
+            "partida_id": 334096,
+            "clube_visitante_posicao": 0,
+            "clube_visitante_id": 285,
+            "clube_casa_posicao": 0,
+            "clube_casa_id": 292,
+            "timestamp": 1748199600,
             "campeonato_id": 26,
             "valida": true
         }
