@@ -320,18 +320,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
                 "e",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
                 "v",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -356,22 +356,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
                 "e",
                 "d",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
                 "e",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/19-04-2025/corinthians-sport.ghtml?utm_source=cartolafc"
             },
             "local": "Neo Química Arena",
             "status_transmissao_tr": "",
@@ -500,22 +500,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
                 "e",
                 "v",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
                 "v",
                 "d",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/19-04-2025/gremio-internacional.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
             "status_transmissao_tr": "",
@@ -586,8 +586,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/20-04-2025/fortaleza-palmeiras.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
             "status_transmissao_tr": "",
@@ -622,8 +622,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/20-04-2025/juventude-mirassol.ghtml?utm_source=cartolafc"
             },
             "local": "Alfredo Jaconi",
             "status_transmissao_tr": "",
