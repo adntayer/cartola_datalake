@@ -284,18 +284,18 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "",
                 "d",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
                 "d",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -334,21 +334,21 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/futebol/brasileirao-serie-a/jogo/19-04-2025/vasco-flamengo.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-04-19 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-04-19T23:27:20.414Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 0,
             "partida_id": 333938,
             "clube_visitante_posicao": 1,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 7,
+            "clube_casa_posicao": 8,
             "clube_casa_id": 267,
             "timestamp": 1745098200,
             "campeonato_id": 26,
@@ -360,31 +360,31 @@
                 "d",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "v",
                 "d",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "ao vivo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/19-04-2025/corinthians-sport.ghtml?utm_source=cartolafc"
             },
             "local": "Neo Química Arena",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-04-19 16:00:00",
-            "inicio_cronometro_tr": "2025-04-19T19:00:08.625Z",
-            "placar_oficial_visitante": 0,
-            "placar_oficial_mandante": 0,
+            "inicio_cronometro_tr": "2025-04-19T21:05:07.442Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 2,
             "partida_id": 333939,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 264,
             "timestamp": 1745089200,
             "campeonato_id": 26,
@@ -392,14 +392,14 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
                 "d",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
+                "e",
                 "e",
                 "e",
                 "e",
@@ -420,7 +420,7 @@
             "partida_id": 333940,
             "clube_visitante_posicao": 14,
             "clube_visitante_id": 277,
-            "clube_casa_posicao": 16,
+            "clube_casa_posicao": 17,
             "clube_casa_id": 276,
             "timestamp": 1745175600,
             "campeonato_id": 26,
@@ -428,18 +428,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
                 "v",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
                 "e",
                 "d",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -464,18 +464,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
                 "e",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "",
                 "d",
                 "e",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -490,7 +490,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333942,
-            "clube_visitante_posicao": 11,
+            "clube_visitante_posicao": 12,
             "clube_visitante_id": 263,
             "clube_casa_posicao": 19,
             "clube_casa_id": 282,
@@ -514,21 +514,21 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/19-04-2025/gremio-internacional.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-04-19 21:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-04-20T02:12:38.871Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 1,
             "partida_id": 333943,
             "clube_visitante_posicao": 10,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 17,
+            "clube_casa_posicao": 16,
             "clube_casa_id": 284,
             "timestamp": 1745107200,
             "campeonato_id": 26,
@@ -572,18 +572,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
                 "e",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
                 "v",
                 "e",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -600,7 +600,7 @@
             "partida_id": 333945,
             "clube_visitante_posicao": 2,
             "clube_visitante_id": 275,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 356,
             "timestamp": 1745184600,
             "campeonato_id": 26,
@@ -608,18 +608,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
                 "d",
                 "e",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
                 "v",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -634,9 +634,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333946,
-            "clube_visitante_posicao": 9,
+            "clube_visitante_posicao": 11,
             "clube_visitante_id": 2305,
-            "clube_casa_posicao": 8,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 286,
             "timestamp": 1745157600,
             "campeonato_id": 26,
