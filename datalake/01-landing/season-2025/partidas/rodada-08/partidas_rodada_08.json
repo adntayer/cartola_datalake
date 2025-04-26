@@ -301,6 +301,78 @@
                 "label": "",
                 "url": ""
             },
+            "local": "Maracanã",
+            "status_transmissao_tr": "",
+            "status_cronometro_tr": "",
+            "periodo_tr": "",
+            "partida_data": "2025-05-10 21:00:00",
+            "inicio_cronometro_tr": "",
+            "placar_oficial_visitante": null,
+            "placar_oficial_mandante": null,
+            "partida_id": 334035,
+            "clube_visitante_posicao": 0,
+            "clube_visitante_id": 265,
+            "clube_casa_posicao": 0,
+            "clube_casa_id": 262,
+            "timestamp": 1746921600,
+            "campeonato_id": 26,
+            "valida": true
+        },
+        {
+            "aproveitamento_visitante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "aproveitamento_mandante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "transmissao": {
+                "label": "",
+                "url": ""
+            },
+            "local": "Nilton Santos (Engenhão)",
+            "status_transmissao_tr": "",
+            "status_cronometro_tr": "",
+            "periodo_tr": "",
+            "partida_data": "2025-05-11 20:00:00",
+            "inicio_cronometro_tr": "",
+            "placar_oficial_visitante": null,
+            "placar_oficial_mandante": null,
+            "partida_id": 334036,
+            "clube_visitante_posicao": 0,
+            "clube_visitante_id": 285,
+            "clube_casa_posicao": 0,
+            "clube_casa_id": 263,
+            "timestamp": 1747004400,
+            "campeonato_id": 26,
+            "valida": true
+        },
+        {
+            "aproveitamento_visitante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "aproveitamento_mandante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "transmissao": {
+                "label": "",
+                "url": ""
+            },
             "local": "Arena Barueri",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
@@ -315,6 +387,78 @@
             "clube_casa_posicao": 0,
             "clube_casa_id": 275,
             "timestamp": 1746995400,
+            "campeonato_id": 26,
+            "valida": true
+        },
+        {
+            "aproveitamento_visitante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "aproveitamento_mandante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "transmissao": {
+                "label": "",
+                "url": ""
+            },
+            "local": "Vila Belmiro",
+            "status_transmissao_tr": "",
+            "status_cronometro_tr": "",
+            "periodo_tr": "",
+            "partida_data": "2025-05-12 20:00:00",
+            "inicio_cronometro_tr": "",
+            "placar_oficial_visitante": null,
+            "placar_oficial_mandante": null,
+            "partida_id": 334040,
+            "clube_visitante_posicao": 0,
+            "clube_visitante_id": 354,
+            "clube_casa_posicao": 0,
+            "clube_casa_id": 277,
+            "timestamp": 1747090800,
+            "campeonato_id": 26,
+            "valida": true
+        },
+        {
+            "aproveitamento_visitante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "aproveitamento_mandante": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "transmissao": {
+                "label": "",
+                "url": ""
+            },
+            "local": "Maião",
+            "status_transmissao_tr": "",
+            "status_cronometro_tr": "",
+            "periodo_tr": "",
+            "partida_data": "2025-05-10 18:30:00",
+            "inicio_cronometro_tr": "",
+            "placar_oficial_visitante": null,
+            "placar_oficial_mandante": null,
+            "partida_id": 334041,
+            "clube_visitante_posicao": 0,
+            "clube_visitante_id": 264,
+            "clube_casa_posicao": 0,
+            "clube_casa_id": 2305,
+            "timestamp": 1746912600,
             "campeonato_id": 26,
             "valida": true
         },
@@ -373,155 +517,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Arena do Grêmio",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-05-11 20:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
-            "partida_id": 334035,
-            "clube_visitante_posicao": 0,
-            "clube_visitante_id": 265,
-            "clube_casa_posicao": 0,
-            "clube_casa_id": 262,
-            "timestamp": 1747006200,
-            "campeonato_id": 26,
-            "valida": true
-        },
-        {
-            "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "transmissao": {
-                "label": "",
-                "url": ""
-            },
-            "local": " ",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
-            "partida_data": "2025-05-11 20:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
-            "partida_id": 334036,
-            "clube_visitante_posicao": 0,
-            "clube_visitante_id": 285,
-            "clube_casa_posicao": 0,
-            "clube_casa_id": 263,
-            "timestamp": 1747006200,
-            "campeonato_id": 26,
-            "valida": true
-        },
-        {
-            "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "transmissao": {
-                "label": "",
-                "url": ""
-            },
-            "local": " ",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
-            "partida_data": "2025-05-11 20:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
-            "partida_id": 334040,
-            "clube_visitante_posicao": 0,
-            "clube_visitante_id": 354,
-            "clube_casa_posicao": 0,
-            "clube_casa_id": 277,
-            "timestamp": 1747006200,
-            "campeonato_id": 26,
-            "valida": true
-        },
-        {
-            "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "transmissao": {
-                "label": "",
-                "url": ""
-            },
-            "local": " ",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
-            "partida_data": "2025-05-11 20:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
-            "partida_id": 334041,
-            "clube_visitante_posicao": 0,
-            "clube_visitante_id": 264,
-            "clube_casa_posicao": 0,
-            "clube_casa_id": 2305,
-            "timestamp": 1747006200,
-            "campeonato_id": 26,
-            "valida": true
-        },
-        {
-            "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "transmissao": {
-                "label": "",
-                "url": ""
-            },
-            "local": " ",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
-            "partida_data": "2025-05-11 20:30:00",
+            "partida_data": "2025-05-10 18:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -530,7 +530,7 @@
             "clube_visitante_id": 280,
             "clube_casa_posicao": 0,
             "clube_casa_id": 284,
-            "timestamp": 1747006200,
+            "timestamp": 1746912600,
             "campeonato_id": 26,
             "valida": true
         },
@@ -553,11 +553,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Barradão",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-05-11 20:30:00",
+            "partida_data": "2025-05-10 18:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -566,7 +566,7 @@
             "clube_visitante_id": 267,
             "clube_casa_posicao": 0,
             "clube_casa_id": 287,
-            "timestamp": 1747006200,
+            "timestamp": 1746912600,
             "campeonato_id": 26,
             "valida": true
         },
@@ -589,11 +589,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Castelão (CE)",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-05-11 20:30:00",
+            "partida_data": "2025-05-10 16:00:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -602,7 +602,7 @@
             "clube_visitante_id": 286,
             "clube_casa_posicao": 0,
             "clube_casa_id": 356,
-            "timestamp": 1747006200,
+            "timestamp": 1746903600,
             "campeonato_id": 26,
             "valida": true
         },
@@ -625,11 +625,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Ilha do Retiro",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-05-11 20:30:00",
+            "partida_data": "2025-05-11 16:00:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -638,7 +638,7 @@
             "clube_visitante_id": 283,
             "clube_casa_posicao": 0,
             "clube_casa_id": 292,
-            "timestamp": 1747006200,
+            "timestamp": 1746990000,
             "campeonato_id": 26,
             "valida": true
         }
