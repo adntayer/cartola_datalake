@@ -43,7 +43,7 @@ def main():
         dict_hash = {}
         for file_json in list_jsons:
             dict_load = load_dict_from_file_compress(os.path.join(path_dir, file_json))
-            dict_load['atleta'] = sorted(dict_load['atletas'], key=lambda x: x['atleta_id'])
+            dict_load['atletas'] = sorted(dict_load['atletas'], key=lambda x: x['atleta_id'])
             _hash = calculate_dict_checksum(dict_load)
             dict_hash[_hash] = file_json
             _log.info(f"rodada {str(rodada).zfill(2)} | '{file_json=}' -->> '{_hash}'")
