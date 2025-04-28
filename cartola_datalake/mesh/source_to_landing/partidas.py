@@ -7,6 +7,7 @@ from cartola_datalake.mesh.checksum import calculate_dict_checksum
 from cartola_datalake.mesh.io import load_dict_from_file
 from cartola_datalake.mesh.io import save_dict_to_file
 from cartola_datalake.mesh.logger import SetupLogger
+from cartola_datalake.mesh.settings import FOLDER_LANDING
 from cartola_datalake.mesh.settings import SEASON_STR
 
 _log = SetupLogger('source_to_landing.partidas')
@@ -19,7 +20,7 @@ def main(rodada):
     r = requests.get(url)
     data = r.json()
 
-    path_partidas = os.path.join(os.getcwd(), 'datalake', '01-landing', f'season-{SEASON_STR}', 'partidas', f'rodada-{str(rodada).zfill(2)}', f'partidas_rodada_{str(rodada).zfill(2)}.json')
+    path_partidas = os.path.join(os.getcwd(), 'datalake', FOLDER_LANDING, f'season-{SEASON_STR}', 'partidas', f'rodada-{str(rodada).zfill(2)}', f'partidas_rodada_{str(rodada).zfill(2)}.json')
     path_dir = os.path.dirname(path_partidas)
     os.makedirs(path_dir, exist_ok=True)
 

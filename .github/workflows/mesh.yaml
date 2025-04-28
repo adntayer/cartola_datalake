@@ -6,37 +6,87 @@ on:
     - cron: '15 10,19 * * *'
 
 jobs:
+  ### ATLETAS MERCADO
   job_01_src_to_lnd_atletas_mercado:
-    uses: ./.github/workflows/_template_extractor.yaml
+    uses: ./.github/workflows/_template_run.yaml
     with:
       name: 'atletas mercado'
       path_python_file: 'cartola_datalake.mesh.source_to_landing.atletas_mercado'
       workflow: 'source-to-landing'
 
+  job_02_lnd_to_bronze_atletas_mercado:
+    needs:
+      - job_01_src_to_lnd_atletas_mercado
+    uses: ./.github/workflows/_template_run.yaml
+    with:
+      name: 'atletas mercado'
+      path_python_file: 'cartola_datalake.mesh.landing_to_bronze.atletas_mercado'
+      workflow: 'landing-to-bronze'
+
+  ### PONTUADOS
   job_01_src_to_lnd_pontuados:
-    uses: ./.github/workflows/_template_extractor.yaml
+    uses: ./.github/workflows/_template_run.yaml
     with:
       name: 'pontuados'
       path_python_file: 'cartola_datalake.mesh.source_to_landing.pontuados'
       workflow: 'source-to-landing'
 
+  job_02_lnd_to_bronze_pontuados:
+    needs:
+      - job_01_src_to_lnd_pontuados
+    uses: ./.github/workflows/_template_run.yaml
+    with:
+      name: 'atletas mercado'
+      path_python_file: 'cartola_datalake.mesh.landing_to_bronze.atletas_mercado'
+      workflow: 'landing-to-bronze'
+
+  ### PARTIDAS
   job_01_src_to_lnd_partidas:
-    uses: ./.github/workflows/_template_extractor.yaml
+    uses: ./.github/workflows/_template_run.yaml
     with:
       name: 'partidas'
       path_python_file: 'cartola_datalake.mesh.source_to_landing.partidas'
       workflow: 'source-to-landing'
 
+  job_02_lnd_to_bronze_partidas:
+    needs:
+      - job_01_src_to_lnd_partidas
+    uses: ./.github/workflows/_template_run.yaml
+    with:
+      name: 'partidas'
+      path_python_file: 'cartola_datalake.mesh.landing_to_bronze.partidas'
+      workflow: 'landing-to-bronze'
+
+  ### CLUBES
   job_01_src_to_lnd_clubes:
-    uses: ./.github/workflows/_template_extractor.yaml
+    uses: ./.github/workflows/_template_run.yaml
     with:
       name: 'clubes'
       path_python_file: 'cartola_datalake.mesh.source_to_landing.clubes'
       workflow: 'source-to-landing'
 
+  job_02_lnd_to_bronze_clubes:
+    needs:
+      - job_01_src_to_lnd_clubes
+    uses: ./.github/workflows/_template_run.yaml
+    with:
+      name: 'clubes'
+      path_python_file: 'cartola_datalake.mesh.landing_to_bronze.clubes'
+      workflow: 'landing-to-bronze'
+
+  ### ESQUEMAS
   job_01_src_to_lnd_esquemas:
-    uses: ./.github/workflows/_template_extractor.yaml
+    uses: ./.github/workflows/_template_run.yaml
     with:
       name: 'esquemas'
       path_python_file: 'cartola_datalake.mesh.source_to_landing.esquemas'
       workflow: 'source-to-landing'
+
+  job_02_lnd_to_bronze_esquemas:
+    needs:
+      - job_01_src_to_lnd_esquemas
+    uses: ./.github/workflows/_template_run.yaml
+    with:
+      name: 'esquemas'
+      path_python_file: 'cartola_datalake.mesh.landing_to_bronze.esquemas'
+      workflow: 'landing-to-bronze'
