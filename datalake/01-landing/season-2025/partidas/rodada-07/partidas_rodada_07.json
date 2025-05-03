@@ -287,19 +287,19 @@
                 "d",
                 "d",
                 "d",
-                "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/futebol/brasileirao-serie-a/jogo/03-05-2025/fluminense-sport.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
             "status_transmissao_tr": "",
@@ -356,22 +356,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/03-05-2025/corinthians-internacional.ghtml?utm_source=cartolafc"
             },
             "local": "Neo Química Arena",
             "status_transmissao_tr": "",
@@ -406,7 +406,7 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/02-05-2025/sao-paulo-fortaleza.ghtml?utm_source=cartolafc"
             },
             "local": "Morumbis",
@@ -415,12 +415,12 @@
             "periodo_tr": "",
             "partida_data": "2025-05-02 21:30:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 0,
             "partida_id": 334010,
             "clube_visitante_posicao": 15,
             "clube_visitante_id": 356,
-            "clube_casa_posicao": 10,
+            "clube_casa_posicao": 8,
             "clube_casa_id": 276,
             "timestamp": 1746232200,
             "campeonato_id": 26,
@@ -536,18 +536,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
-                "e",
                 "d",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -562,7 +562,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334014,
-            "clube_visitante_posicao": 8,
+            "clube_visitante_posicao": 9,
             "clube_visitante_id": 263,
             "clube_casa_posicao": 7,
             "clube_casa_id": 265,
@@ -572,22 +572,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "v",
+                "e",
                 "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/03-05-2025/ceara-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Presidente Vargas (CE)",
             "status_transmissao_tr": "",
@@ -600,7 +600,7 @@
             "partida_id": 334015,
             "clube_visitante_posicao": 16,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 9,
+            "clube_casa_posicao": 10,
             "clube_casa_id": 354,
             "timestamp": 1746307800,
             "campeonato_id": 26,
