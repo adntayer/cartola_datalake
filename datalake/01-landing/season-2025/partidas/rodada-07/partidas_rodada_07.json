@@ -312,7 +312,7 @@
             "partida_id": 334007,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 4,
+            "clube_casa_posicao": 5,
             "clube_casa_id": 266,
             "timestamp": 1746307800,
             "campeonato_id": 26,
@@ -324,31 +324,31 @@
                 "v",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "d",
                 "e",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "ao vivo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/04-05-2025/vasco-palmeiras.ghtml?utm_source=cartolafc"
             },
             "local": "Mané Garrincha",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-04 16:00:00",
-            "inicio_cronometro_tr": "2025-05-04T19:00:58.930Z",
-            "placar_oficial_visitante": 0,
+            "inicio_cronometro_tr": "2025-05-04T21:00:29.541Z",
+            "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 0,
             "partida_id": 334008,
-            "clube_visitante_posicao": 2,
+            "clube_visitante_posicao": 1,
             "clube_visitante_id": 275,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 267,
             "timestamp": 1746385200,
             "campeonato_id": 26,
@@ -418,7 +418,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 0,
             "partida_id": 334010,
-            "clube_visitante_posicao": 15,
+            "clube_visitante_posicao": 16,
             "clube_visitante_id": 356,
             "clube_casa_posicao": 10,
             "clube_casa_id": 276,
@@ -429,17 +429,17 @@
         {
             "aproveitamento_visitante": [
                 "e",
-                "e",
                 "v",
+                "e",
                 "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -454,7 +454,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334011,
-            "clube_visitante_posicao": 14,
+            "clube_visitante_posicao": 15,
             "clube_visitante_id": 2305,
             "clube_casa_posicao": 3,
             "clube_casa_id": 280,
@@ -468,31 +468,31 @@
                 "v",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "v",
                 "d",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/04-05-2025/cruzeiro-flamengo.ghtml?utm_source=cartolafc"
             },
             "local": "Mineirão",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-04 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-05-04T23:28:45.027Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 2,
             "partida_id": 334012,
-            "clube_visitante_posicao": 1,
+            "clube_visitante_posicao": 2,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 7,
+            "clube_casa_posicao": 4,
             "clube_casa_id": 283,
             "timestamp": 1746394200,
             "campeonato_id": 26,
@@ -504,31 +504,31 @@
                 "v",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "e",
                 "e",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "ao vivo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/04-05-2025/gremio-santos.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-04 16:00:00",
-            "inicio_cronometro_tr": "2025-05-04T18:59:33.459Z",
+            "inicio_cronometro_tr": "2025-05-04T21:02:56.040Z",
             "placar_oficial_visitante": 0,
-            "placar_oficial_mandante": 0,
+            "placar_oficial_mandante": 1,
             "partida_id": 334013,
             "clube_visitante_posicao": 19,
             "clube_visitante_id": 277,
-            "clube_casa_posicao": 18,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 284,
             "timestamp": 1746385200,
             "campeonato_id": 26,
@@ -564,7 +564,7 @@
             "partida_id": 334014,
             "clube_visitante_posicao": 11,
             "clube_visitante_id": 263,
-            "clube_casa_posicao": 5,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 265,
             "timestamp": 1746316800,
             "campeonato_id": 26,
@@ -598,9 +598,9 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 1,
             "partida_id": 334015,
-            "clube_visitante_posicao": 17,
+            "clube_visitante_posicao": 18,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 6,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 354,
             "timestamp": 1746307800,
             "campeonato_id": 26,
@@ -609,17 +609,17 @@
         {
             "aproveitamento_visitante": [
                 "e",
-                "e",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -634,9 +634,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334016,
-            "clube_visitante_posicao": 16,
+            "clube_visitante_posicao": 17,
             "clube_visitante_id": 282,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 14,
             "clube_casa_id": 286,
             "timestamp": 1746486000,
             "campeonato_id": 26,
