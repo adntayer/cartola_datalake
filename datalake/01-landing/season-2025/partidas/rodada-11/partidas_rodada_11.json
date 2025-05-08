@@ -481,11 +481,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Mineirão",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-06-01 20:30:00",
+            "partida_data": "2025-06-01 19:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -494,7 +494,7 @@
             "clube_visitante_id": 275,
             "clube_casa_posicao": 0,
             "clube_casa_id": 283,
-            "timestamp": 1748820600,
+            "timestamp": 1748817000,
             "campeonato_id": 26,
             "valida": true
         },
