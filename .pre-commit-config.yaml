@@ -1,5 +1,5 @@
 default_language_version:
-    python: python3.9
+    python: python3.12
 exclude: |
     (?x)(
           ^.env|
@@ -48,7 +48,7 @@ repos:
     args: ["--allow-missing-credentials"]
   - id: detect-private-key
   - id: debug-statements
-  - id: double-quote-string-fixer
+  # - id: double-quote-string-fixer
   - id: name-tests-test
     args: ["--pytest-test-first"]
   - id: pretty-format-json
@@ -84,17 +84,12 @@ repos:
   hooks:
   -   id: pyupgrade
 
-- repo: https://github.com/psf/black
-  rev: 23.3.0
-  hooks:
-    - id: black
-      args: ["--line-length=800", "--skip-string-normalization"]
-
-# An extremely fast Python linter, written in Rust.
-- repo: https://github.com/charliermarsh/ruff-pre-commit
+- repo: https://github.com/astral-sh/ruff-pre-commit
   # Ruff version.
-  rev: v0.0.272
+  rev: v0.11.9
   hooks:
+    # Run the linter.
     - id: ruff
-      # Respect `exclude` and `extend-exclude` settings.
-      args: ["--line-length=900", "--fix", ]
+      args: [ --fix ]
+    # Run the formatter.
+    - id: ruff-format

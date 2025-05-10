@@ -1,2 +1,2 @@
 def print_echo():
-    print('echo')
+    print("echo")
