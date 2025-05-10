@@ -18,7 +18,7 @@ on:
         required: true
 
 jobs:
-  source_to_landing:
+  run:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -67,6 +67,6 @@ jobs:
             git add .
             git commit -m "📡 [data ${{ inputs.workflow }} ${{ inputs.name }}]: automatic update data $(date)"
             echo "rebasing..."
-            git pull origin main --rebase
+            git pull origin main --no-rebase --no-edit || exit 1
             git push
           fi
