@@ -36,8 +36,8 @@ jobs:
       - src_to_lnd_pontuados
     uses: ./.github/workflows/_template_run.yaml
     with:
-      name: 'atletas mercado'
-      path_python_file: 'cartola_datalake.mesh.02_landing_to_bronze.atletas_mercado'
+      name: 'pontuados'
+      path_python_file: 'cartola_datalake.mesh.02_landing_to_bronze.pontuados'
       workflow: 'landing-to-bronze'
 
   ### PARTIDAS
