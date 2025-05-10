@@ -1,20 +1,20 @@
-# python -m cartola_datalake.mesh.landing_to_bronze.pontuados
+# python -m cartola_datalake.mesh.02_landing_to_bronze.pontuados
 import os
 
 import pandas as pd
 
 from cartola_datalake.mesh.io import load_dict_from_file_compress
+from cartola_datalake.mesh.io import write_if_different
 from cartola_datalake.mesh.logger import SetupLogger
 from cartola_datalake.mesh.settings import FOLDER_BRONZE
 from cartola_datalake.mesh.settings import FOLDER_LANDING
 from cartola_datalake.mesh.settings import SEASON_STR
 
-_log = SetupLogger('landing_to_bronze.pontuados')
+_log = SetupLogger('02_landing_to_bronze.pontuados')
 
 
 def main():
     PATH_PONTUADOS_SEASON = os.path.join(os.getcwd(), 'datalake', FOLDER_LANDING, f'season-{SEASON_STR}', 'pontuados')
-    os.listdir(PATH_PONTUADOS_SEASON)
     _log.info("Reading 'pontuados' folder...")
     df_files = pd.DataFrame()
     for root, dirs, files in os.walk(PATH_PONTUADOS_SEASON):
@@ -38,11 +38,39 @@ def main():
     df_posicoes['file_source'] = os.path.join('datalake', FOLDER_LANDING, f'season-{SEASON_STR}', 'pontuados', file)
 
     _log.info("Saving all files '.csv'...")
-    os.makedirs(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'pontuados'), exist_ok=True)
-    df_files.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'pontuados', 'pontuados.csv.gz'), sep=';', decimal='.', index=False, compression='gzip')
-    df_clubes.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'pontuados', 'clubes.csv'), sep=';', decimal='.', index=False)
-    df_posicoes.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'pontuados', 'posicoes.csv'), sep=';', decimal='.', index=False)
-    _log.info('Saved')
+
+    # Directory to store the files
+    target_dir = os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'pontuados')
+    os.makedirs(target_dir, exist_ok=True)
+
+    dict_args_pontuados = {
+        'df': df_files,
+        'filepath': os.path.join(target_dir, 'pontuados.csv.gz'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+        'compression': 'gzip',
+    }
+
+    dict_args_clubes = {
+        'df': df_clubes,
+        'filepath': os.path.join(target_dir, 'clubes.csv'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+    }
+
+    dict_args_posicoes = {
+        'df': df_posicoes,
+        'filepath': os.path.join(target_dir, 'posicoes.csv'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+    }
+
+    write_if_different(**dict_args_pontuados)
+    write_if_different(**dict_args_clubes)
+    write_if_different(**dict_args_posicoes)
 
 
 if __name__ == '__main__':

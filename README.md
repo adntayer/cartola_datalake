@@ -6,6 +6,13 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
+---
+Status da malha
+
+[![Mesh Run](https://github.com/adntayer/cartola_datalake/actions/workflows/mesh.yaml/badge.svg?branch=main)](https://github.com/adntayer/cartola_datalake/actions/workflows/mesh.yaml)
+
+---
+
 # Cartola Datalake
 
 Datalake do [Cartola FC](https://ge.globo.com/cartola/)

@@ -1,15 +1,16 @@
-# python -m cartola_datalake.mesh.landing_to_bronze.clubes
+# python -m cartola_datalake.mesh.02_landing_to_bronze.clubes
 import json
 import os
 
 import pandas as pd
 
+from cartola_datalake.mesh.io import write_if_different
 from cartola_datalake.mesh.logger import SetupLogger
 from cartola_datalake.mesh.settings import FOLDER_BRONZE
 from cartola_datalake.mesh.settings import FOLDER_LANDING
 from cartola_datalake.mesh.settings import SEASON_STR
 
-_log = SetupLogger('landing_to_bronze.clubes')
+_log = SetupLogger('02_landing_to_bronze.clubes')
 
 
 def main():
@@ -27,9 +28,20 @@ def main():
         df_clubes_all = pd.concat([df_clubes_all, df_clubes], ignore_index=True)
 
     _log.info("Saving 'clubes.csv'...")
-    os.makedirs(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'clubes'), exist_ok=True)
-    df_clubes_all.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'clubes', 'clubes.csv'), sep=';', decimal='.', index=False)
-    _log.info('Saved')
+
+    # Directory to store the file
+    clubes_target_dir = os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'clubes')
+    os.makedirs(clubes_target_dir, exist_ok=True)
+
+    dict_args_clubes_all = {
+        'df': df_clubes_all,
+        'filepath': os.path.join(clubes_target_dir, 'clubes.csv'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+    }
+
+    write_if_different(**dict_args_clubes_all)
 
 
 if __name__ == '__main__':

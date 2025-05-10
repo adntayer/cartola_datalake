@@ -55,10 +55,6 @@ jobs:
           # Set up Git configuration
           git config --global user.name "adntayer"
           git config --global user.email "adntayer@users.noreply.github.com"
-
-          echo "Pulling latest changes from remote..."
-          git pull origin main --no-rebase --no-edit || exit 1
-
           changes=$(git ls-files --others --exclude-standard --modified -t)
 
           if [ -z "$changes" ]; then
@@ -67,8 +63,10 @@ jobs:
           else
             echo "Changes detected!"
             echo "$changes"
-            echo "Committing..."
+            echo "commiting..."
             git add .
             git commit -m "📡 [data ${{ inputs.workflow }} ${{ inputs.name }}]: automatic update data $(date)"
+            echo "rebasing..."
+            git pull origin main --rebase
             git push
           fi
