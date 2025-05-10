@@ -8,6 +8,7 @@ from cartola_datalake.mesh.checksum import calculate_dict_checksum
 from cartola_datalake.mesh.io import load_dict_from_file_compress
 from cartola_datalake.mesh.io import save_dict_to_file_compress
 from cartola_datalake.mesh.logger import SetupLogger
+from cartola_datalake.mesh.settings import FOLDER_LANDING
 from cartola_datalake.mesh.settings import SEASON_STR
 
 _log = SetupLogger('source_to_landing.atletas_mercado')
@@ -30,7 +31,7 @@ def main():
         return
 
     now = datetime.now().strftime('%Y_%m_%d')
-    path_atletas_mercado = os.path.join(os.getcwd(), 'datalake', '01-landing', f'season-{SEASON_STR}', 'atletas_mercado', f'rodada-{str(rodada).zfill(2)}', f'{now}_atletas_mercado_rodada_{str(rodada).zfill(2)}.json.gz')
+    path_atletas_mercado = os.path.join(os.getcwd(), 'datalake', FOLDER_LANDING, f'season-{SEASON_STR}', 'atletas_mercado', f'rodada-{str(rodada).zfill(2)}', f'{now}_atletas_mercado_rodada_{str(rodada).zfill(2)}.json.gz')
     path_dir = os.path.dirname(path_atletas_mercado)
     os.makedirs(path_dir, exist_ok=True)
 
