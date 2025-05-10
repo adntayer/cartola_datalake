@@ -10,40 +10,58 @@ from cartola_datalake.mesh.settings import FOLDER_BRONZE
 from cartola_datalake.mesh.settings import FOLDER_LANDING
 from cartola_datalake.mesh.settings import SEASON_STR
 
-_log = SetupLogger('02_landing_to_bronze.esquemas')
+_log = SetupLogger("02_landing_to_bronze.esquemas")
 
 
 def main():
-    PATH_ESQUEMAS_SEASON = os.path.join(os.getcwd(), 'datalake', FOLDER_LANDING, f'season-{SEASON_STR}', 'esquemas')
+    PATH_ESQUEMAS_SEASON = os.path.join(
+        os.getcwd(),
+        "datalake",
+        FOLDER_LANDING,
+        f"season-{SEASON_STR}",
+        "esquemas",
+    )
     list_files = os.listdir(PATH_ESQUEMAS_SEASON)
     _log.info("Reading 'esquemas' folder...")
     df_esquemas = pd.DataFrame()
     for file in list_files:
         file_path = os.path.join(PATH_ESQUEMAS_SEASON, file)
-        with open(file_path, encoding='utf-8') as f:
+        with open(file_path, encoding="utf-8") as f:
             data = json.load(f)
         df_loop = pd.DataFrame(data)
-        df_posicoes = pd.json_normalize(df_loop['posicoes'])
-        df_loop = pd.concat([df_loop.drop(columns=['posicoes']), df_posicoes], axis=1)
-        df_loop['file_source'] = os.path.join('datalake', FOLDER_LANDING, f'season-{SEASON_STR}', 'esquemas', file)
+        df_posicoes = pd.json_normalize(df_loop["posicoes"])
+        df_loop = pd.concat([df_loop.drop(columns=["posicoes"]), df_posicoes], axis=1)
+        df_loop["file_source"] = os.path.join(
+            "datalake",
+            FOLDER_LANDING,
+            f"season-{SEASON_STR}",
+            "esquemas",
+            file,
+        )
         df_esquemas = pd.concat([df_esquemas, df_loop], ignore_index=True)
 
     _log.info("Saving 'esquemas.csv'...")
 
     # Directory to store the file
-    esquemas_target_dir = os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'esquemas')
+    esquemas_target_dir = os.path.join(
+        os.getcwd(),
+        "datalake",
+        FOLDER_BRONZE,
+        f"season-{SEASON_STR}",
+        "esquemas",
+    )
     os.makedirs(esquemas_target_dir, exist_ok=True)
 
     dict_args_esquemas = {
-        'df': df_esquemas,
-        'filepath': os.path.join(esquemas_target_dir, 'esquemas.csv'),
-        'sep': ';',
-        'decimal': '.',
-        'index': False,
+        "df": df_esquemas,
+        "filepath": os.path.join(esquemas_target_dir, "esquemas.csv"),
+        "sep": ";",
+        "decimal": ".",
+        "index": False,
     }
 
     write_if_different(**dict_args_esquemas)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

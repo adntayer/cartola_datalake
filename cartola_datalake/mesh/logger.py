@@ -2,7 +2,7 @@ import logging
 
 
 class SetupLogger:
-    formatting = '[%(levelname)7s - %(asctime)s] [%(filename)s:%(name)s] | %(message)s'
+    formatting = "[%(levelname)7s - %(asctime)s] [%(filename)s:%(name)s] | %(message)s"
 
     def __init__(self, logger_name, format=formatting, level=logging.INFO):
         logging.basicConfig(

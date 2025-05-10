@@ -15,13 +15,15 @@ jobs:
       - name: clone repo
         uses: actions/checkout@v2
 
-      - name: setup python
-        uses: actions/setup-python@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
         with:
-          python-version: '3.9' 
+          activate-environment: true
 
-      - name: install requirements
-        run: pip install pre-commit
+      - name: setup python and libs # search version on file '.python-version'
+        run: |
+          uv python install
+          uv pip install pre-commit
 
       - name: run pre-commit
         run: pre-commit run --all-files

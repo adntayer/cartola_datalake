@@ -1,5 +1,4 @@
-name: 'Template Extractor'
-description: 'Run templated extractor process'
+name: 'Template Runner'
 
 on:
   workflow_call:
@@ -24,28 +23,22 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-      - name: Caching requirements.txt
-        uses: actions/cache@v3
-        id: cache-req-requirements
-        with:
-          path: ${{ env.pythonLocation }}
-          key: ${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Install requirements
-        if: steps.cache-req-requirements.outputs.cache-hit != 'true'
-        run: pip install -r requirements.txt
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          activate-environment: true
+
+      - name: setup python and libs # search version on file '.python-version'
+        run: |
+          uv python install
+          uv sync
 
       - name: Run update data
         run: python -m ${{ inputs.path_python_file }}
