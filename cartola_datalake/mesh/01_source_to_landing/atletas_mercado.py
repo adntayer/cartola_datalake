@@ -1,4 +1,4 @@
-# python -m cartola_datalake.mesh.01_source_to_landing.atletas_mercado
+# uv run -m cartola_datalake.mesh.01_source_to_landing.atletas_mercado
 import os
 from datetime import datetime
 

@@ -48,7 +48,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run update data
-        run: python -m ${{ inputs.path_python_file }}
+        run: uv run -m ${{ inputs.path_python_file }}
 
       - name: Check for changes, Commit, and Push if needed
         run: |

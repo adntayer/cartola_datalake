@@ -1,4 +1,4 @@
-# python -m cartola_datalake.mesh.02_landing_to_bronze.clubes
+# uv run -m cartola_datalake.mesh.02_landing_to_bronze.clubes
 import json
 import os
 

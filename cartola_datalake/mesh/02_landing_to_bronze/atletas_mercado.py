@@ -1,4 +1,4 @@
-# python -m cartola_datalake.mesh.02_landing_to_bronze.atletas_mercado
+# uv run -m cartola_datalake.mesh.02_landing_to_bronze.atletas_mercado
 import os
 
 import pandas as pd
