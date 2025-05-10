@@ -1,4 +1,4 @@
-# python -m cartola_datalake.mesh.source_to_landing.partidas
+# python -m cartola_datalake.mesh.01_source_to_landing.partidas
 import os
 
 import requests
@@ -10,7 +10,7 @@ from cartola_datalake.mesh.logger import SetupLogger
 from cartola_datalake.mesh.settings import FOLDER_LANDING
 from cartola_datalake.mesh.settings import SEASON_STR
 
-_log = SetupLogger('source_to_landing.partidas')
+_log = SetupLogger('01_source_to_landing.partidas')
 
 
 def main(rodada):

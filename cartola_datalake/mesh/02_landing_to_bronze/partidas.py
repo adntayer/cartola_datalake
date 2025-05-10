@@ -1,15 +1,16 @@
-# python -m cartola_datalake.mesh.landing_to_bronze.partidas
+# python -m cartola_datalake.mesh.02_landing_to_bronze.partidas
 import json
 import os
 
 import pandas as pd
 
+from cartola_datalake.mesh.io import write_if_different
 from cartola_datalake.mesh.logger import SetupLogger
 from cartola_datalake.mesh.settings import FOLDER_BRONZE
 from cartola_datalake.mesh.settings import FOLDER_LANDING
 from cartola_datalake.mesh.settings import SEASON_STR
 
-_log = SetupLogger('landing_to_bronze.partidas')
+_log = SetupLogger('02_landing_to_bronze.partidas')
 
 
 def main():
@@ -35,10 +36,29 @@ def main():
     df_clubes['file_source'] = os.path.join('datalake', FOLDER_LANDING, f'season-{SEASON_STR}', 'partidas', file)
 
     _log.info("Saving 'partidas.csv' and 'clubes.csv'...")
-    os.makedirs(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'partidas'), exist_ok=True)
-    df_all.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'partidas', 'partidas.csv'), sep=';', decimal='.', index=False)
-    df_clubes.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'partidas', 'clubes.csv'), sep=';', decimal='.', index=False)
-    _log.info('Saved')
+
+    # Directory to store the files
+    partidas_target_dir = os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'partidas')
+    os.makedirs(partidas_target_dir, exist_ok=True)
+
+    dict_args_partidas = {
+        'df': df_all,
+        'filepath': os.path.join(partidas_target_dir, 'partidas.csv'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+    }
+
+    dict_args_clubes_partidas = {
+        'df': df_clubes,
+        'filepath': os.path.join(partidas_target_dir, 'clubes.csv'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+    }
+
+    write_if_different(**dict_args_partidas)
+    write_if_different(**dict_args_clubes_partidas)
 
 
 if __name__ == '__main__':

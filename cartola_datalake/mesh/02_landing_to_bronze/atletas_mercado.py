@@ -1,15 +1,16 @@
-# python -m cartola_datalake.mesh.landing_to_bronze.atletas_mercado
+# python -m cartola_datalake.mesh.02_landing_to_bronze.atletas_mercado
 import os
 
 import pandas as pd
 
 from cartola_datalake.mesh.io import load_dict_from_file_compress
+from cartola_datalake.mesh.io import write_if_different
 from cartola_datalake.mesh.logger import SetupLogger
 from cartola_datalake.mesh.settings import FOLDER_BRONZE
 from cartola_datalake.mesh.settings import FOLDER_LANDING
 from cartola_datalake.mesh.settings import SEASON_STR
 
-_log = SetupLogger('landing_to_bronze.atletas_mercado')
+_log = SetupLogger('02_landing_to_bronze.atletas_mercado')
 
 
 def main():
@@ -37,12 +38,49 @@ def main():
     df_status['file_source'] = os.path.join('datalake', FOLDER_LANDING, f'season-{SEASON_STR}', 'atletas_mercado', file)
 
     _log.info("Saving all files '.csv'...")
-    os.makedirs(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'atletas_mercado'), exist_ok=True)
-    df_files.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'atletas_mercado', 'atletas_mercado.csv.gz'), sep=';', decimal='.', index=False, compression='gzip')
-    df_clubes.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'atletas_mercado', 'clubes.csv'), sep=';', decimal='.', index=False)
-    df_posicoes.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'atletas_mercado', 'posicoes.csv'), sep=';', decimal='.', index=False)
-    df_status.to_csv(os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'atletas_mercado', 'status.csv'), sep=';', decimal='.', index=False)
-    _log.info('Saved')
+
+    # Directory to store the files
+    mercado_target_dir = os.path.join(os.getcwd(), 'datalake', FOLDER_BRONZE, f'season-{SEASON_STR}', 'atletas_mercado')
+    os.makedirs(mercado_target_dir, exist_ok=True)
+
+    dict_args_mercado = {
+        'df': df_files,
+        'filepath': os.path.join(mercado_target_dir, 'atletas_mercado.csv.gz'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+        'compression': 'gzip',
+    }
+
+    dict_args_clubes = {
+        'df': df_clubes,
+        'filepath': os.path.join(mercado_target_dir, 'clubes.csv'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+    }
+
+    dict_args_posicoes = {
+        'df': df_posicoes,
+        'filepath': os.path.join(mercado_target_dir, 'posicoes.csv'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+    }
+
+    dict_args_status = {
+        'df': df_status,
+        'filepath': os.path.join(mercado_target_dir, 'status.csv'),
+        'sep': ';',
+        'decimal': '.',
+        'index': False,
+    }
+
+    # Write files only if different
+    write_if_different(**dict_args_mercado)
+    write_if_different(**dict_args_clubes)
+    write_if_different(**dict_args_posicoes)
+    write_if_different(**dict_args_status)
 
 
 if __name__ == '__main__':
