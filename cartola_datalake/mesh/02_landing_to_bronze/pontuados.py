@@ -45,11 +45,10 @@ def main():
 
     dict_args_pontuados = {
         'df': df_files,
-        'filepath': os.path.join(target_dir, 'pontuados.csv.gz'),
+        'filepath': os.path.join(target_dir, 'pontuados.csv'),
         'sep': ';',
         'decimal': '.',
         'index': False,
-        'compression': 'gzip',
     }
 
     dict_args_clubes = {
