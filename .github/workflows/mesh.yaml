@@ -88,5 +88,5 @@ jobs:
     uses: ./.github/workflows/_template_run.yaml
     with:
       name: 'esquemas'
-      path_python_file: 'cartola_datalake.mesh.landing_to_bronze.esquemas'
+      path_python_file: 'cartola_datalake.mesh.01_landing_to_bronze.esquemas'
       workflow: 'landing-to-bronze'
