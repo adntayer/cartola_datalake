@@ -288,31 +288,31 @@
                 "v",
                 "v",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "e",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/10-05-2025/flamengo-bahia.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-10 21:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-05-11T02:06:17.526Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 1,
             "partida_id": 334035,
             "clube_visitante_posicao": 6,
             "clube_visitante_id": 265,
-            "clube_casa_posicao": 3,
+            "clube_casa_posicao": 1,
             "clube_casa_id": 262,
             "timestamp": 1746921600,
             "campeonato_id": 26,
@@ -320,18 +320,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "e",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -346,9 +346,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334036,
-            "clube_visitante_posicao": 10,
+            "clube_visitante_posicao": 11,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 16,
             "clube_casa_id": 263,
             "timestamp": 1747004400,
             "campeonato_id": 26,
@@ -357,17 +357,17 @@
         {
             "aproveitamento_visitante": [
                 "e",
-                "e",
                 "v",
+                "e",
                 "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
-                "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -382,9 +382,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334038,
-            "clube_visitante_posicao": 12,
+            "clube_visitante_posicao": 15,
             "clube_visitante_id": 276,
-            "clube_casa_posicao": 1,
+            "clube_casa_posicao": 3,
             "clube_casa_id": 275,
             "timestamp": 1746995400,
             "campeonato_id": 26,
@@ -432,31 +432,31 @@
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "e",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/jogo/10-05-2025/mirassol-corinthians.ghtml?utm_source=cartolafc"
             },
             "local": "Maião",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-10 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-05-10T23:41:27.228Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 2,
             "partida_id": 334041,
             "clube_visitante_posicao": 8,
             "clube_visitante_id": 264,
-            "clube_casa_posicao": 17,
+            "clube_casa_posicao": 10,
             "clube_casa_id": 2305,
             "timestamp": 1746912600,
             "campeonato_id": 26,
@@ -465,17 +465,17 @@
         {
             "aproveitamento_visitante": [
                 "v",
-                "v",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "d",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -492,7 +492,7 @@
             "partida_id": 334042,
             "clube_visitante_posicao": 5,
             "clube_visitante_id": 266,
-            "clube_casa_posicao": 11,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 282,
             "timestamp": 1746995400,
             "campeonato_id": 26,
@@ -514,17 +514,17 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/10-05-2025/gremio-bragantino.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-10 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-05-10T23:31:14.942Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 1,
             "partida_id": 334043,
             "clube_visitante_posicao": 2,
             "clube_visitante_id": 280,
@@ -540,31 +540,31 @@
                 "e",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "e",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/10-05-2025/vitoria-vasco.ghtml?utm_source=cartolafc"
             },
             "local": "Barradão",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-10 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-05-10T23:27:17.534Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 2,
             "partida_id": 334044,
-            "clube_visitante_posicao": 15,
+            "clube_visitante_posicao": 17,
             "clube_visitante_id": 267,
-            "clube_casa_posicao": 18,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 287,
             "timestamp": 1746912600,
             "campeonato_id": 26,
@@ -576,29 +576,29 @@
                 "e",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "e",
                 "e",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "ao vivo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/10-05-2025/fortaleza-juventude.ghtml?utm_source=cartolafc"
             },
             "local": "Presidente Vargas (CE)",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-10 16:00:00",
-            "inicio_cronometro_tr": "2025-05-10T19:00:23.362Z",
+            "inicio_cronometro_tr": "2025-05-10T20:57:21.131Z",
             "placar_oficial_visitante": 0,
-            "placar_oficial_mandante": 1,
+            "placar_oficial_mandante": 5,
             "partida_id": 334045,
-            "clube_visitante_posicao": 16,
+            "clube_visitante_posicao": 18,
             "clube_visitante_id": 286,
             "clube_casa_posicao": 9,
             "clube_casa_id": 356,
@@ -608,18 +608,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "d",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
-                "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
