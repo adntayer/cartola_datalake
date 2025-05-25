@@ -1,7 +1,8 @@
 import re
 import subprocess
-import tomllib
 from pathlib import Path
+
+import tomllib
 
 
 def uv(subcommand: str, packages: list[str], group: str | None):

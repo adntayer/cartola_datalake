@@ -4,9 +4,9 @@ import logging
 class SetupLogger:
     formatting = "[%(levelname)7s - %(asctime)s] [%(filename)s:%(name)s] | %(message)s"
 
-    def __init__(self, logger_name, format=formatting, level=logging.INFO):
+    def __init__(self, logger_name, _format=formatting, level=logging.INFO):
         logging.basicConfig(
-            format=format,
+            format=_format,
             level=level,
             handlers=[
                 logging.StreamHandler(),

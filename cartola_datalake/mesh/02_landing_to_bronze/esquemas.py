@@ -6,26 +6,24 @@ import pandas as pd
 
 from cartola_datalake.mesh.io import write_if_different
 from cartola_datalake.mesh.logger import SetupLogger
-from cartola_datalake.mesh.settings import FOLDER_BRONZE
-from cartola_datalake.mesh.settings import FOLDER_LANDING
-from cartola_datalake.mesh.settings import SEASON_STR
+from cartola_datalake.mesh.settings import FOLDER_BRONZE, FOLDER_LANDING, SEASON_STR
 
 _log = SetupLogger("02_landing_to_bronze.esquemas")
 
 
 def main():
-    PATH_ESQUEMAS_SEASON = os.path.join(
+    path_esquemas_season = os.path.join(
         os.getcwd(),
         "datalake",
         FOLDER_LANDING,
         f"season-{SEASON_STR}",
         "esquemas",
     )
-    list_files = os.listdir(PATH_ESQUEMAS_SEASON)
+    list_files = os.listdir(path_esquemas_season)
     _log.info("Reading 'esquemas' folder...")
     df_esquemas = pd.DataFrame()
     for file in list_files:
-        file_path = os.path.join(PATH_ESQUEMAS_SEASON, file)
+        file_path = os.path.join(path_esquemas_season, file)
         with open(file_path, encoding="utf-8") as f:
             data = json.load(f)
         df_loop = pd.DataFrame(data)

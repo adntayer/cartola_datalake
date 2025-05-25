@@ -6,15 +6,13 @@ import pandas as pd
 
 from cartola_datalake.mesh.io import write_if_different
 from cartola_datalake.mesh.logger import SetupLogger
-from cartola_datalake.mesh.settings import FOLDER_BRONZE
-from cartola_datalake.mesh.settings import FOLDER_LANDING
-from cartola_datalake.mesh.settings import SEASON_STR
+from cartola_datalake.mesh.settings import FOLDER_BRONZE, FOLDER_LANDING, SEASON_STR
 
 _log = SetupLogger("02_landing_to_bronze.partidas")
 
 
 def main():
-    PATH_PARTIDAS_SEASON = os.path.join(
+    path_partidas_season = os.path.join(
         os.getcwd(),
         "datalake",
         FOLDER_LANDING,
@@ -23,7 +21,7 @@ def main():
     )
     _log.info("Reading 'partidas' folder...")
     df_all = pd.DataFrame()
-    for root, dirs, files in os.walk(PATH_PARTIDAS_SEASON):
+    for root, dirs, files in os.walk(path_partidas_season):
         for file in files:
             file_path = os.path.join(root, file)
             with open(file_path, encoding="utf-8") as f:
