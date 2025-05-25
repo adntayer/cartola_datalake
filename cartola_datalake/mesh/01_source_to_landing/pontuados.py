@@ -5,11 +5,12 @@ from datetime import datetime
 import requests
 
 from cartola_datalake.mesh.checksum import calculate_dict_checksum
-from cartola_datalake.mesh.io import load_dict_from_file_compress
-from cartola_datalake.mesh.io import save_dict_to_file_compress
+from cartola_datalake.mesh.io import (
+    load_dict_from_file_compress,
+    save_dict_to_file_compress,
+)
 from cartola_datalake.mesh.logger import SetupLogger
-from cartola_datalake.mesh.settings import FOLDER_LANDING
-from cartola_datalake.mesh.settings import SEASON_STR
+from cartola_datalake.mesh.settings import FOLDER_LANDING, SEASON_STR
 
 _log = SetupLogger("01_source_to_landing.pontuados")
 

@@ -4,27 +4,26 @@ import os
 
 import pandas as pd
 
+from cartola_datalake.mesh.io import write_if_different
 from cartola_datalake.mesh.logger import SetupLogger
-from cartola_datalake.mesh.settings import FOLDER_BRONZE
-from cartola_datalake.mesh.settings import FOLDER_LANDING
-from cartola_datalake.mesh.settings import SEASON_STR
+from cartola_datalake.mesh.settings import FOLDER_BRONZE, FOLDER_LANDING, SEASON_STR
 
 _log = SetupLogger("02_landing_to_bronze.clubes")
 
 
 def main():
-    PATH_CLUBES_SEASON = os.path.join(
+    path_clubes_season = os.path.join(
         os.getcwd(),
         "datalake",
         FOLDER_LANDING,
         f"season-{SEASON_STR}",
         "clubes",
     )
-    list_files = os.listdir(PATH_CLUBES_SEASON)
+    list_files = os.listdir(path_clubes_season)
     _log.info("Reading 'clubes' folder...")
     df_clubes_all = pd.DataFrame()
     for file in list_files:
-        file_path = os.path.join(PATH_CLUBES_SEASON, file)
+        file_path = os.path.join(path_clubes_season, file)
         with open(file_path, encoding="utf-8") as f:
             data = json.load(f)
         df_clubes = pd.DataFrame(data).T.reset_index()
@@ -58,7 +57,7 @@ def main():
         "index": False,
     }
 
-    # write_if_different(**dict_args_clubes_all)
+    write_if_different(**dict_args_clubes_all)
 
 
 if __name__ == "__main__":

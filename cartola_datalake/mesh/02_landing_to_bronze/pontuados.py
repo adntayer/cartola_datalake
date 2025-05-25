@@ -3,18 +3,15 @@ import os
 
 import pandas as pd
 
-from cartola_datalake.mesh.io import load_dict_from_file_compress
-from cartola_datalake.mesh.io import write_if_different
+from cartola_datalake.mesh.io import load_dict_from_file_compress, write_if_different
 from cartola_datalake.mesh.logger import SetupLogger
-from cartola_datalake.mesh.settings import FOLDER_BRONZE
-from cartola_datalake.mesh.settings import FOLDER_LANDING
-from cartola_datalake.mesh.settings import SEASON_STR
+from cartola_datalake.mesh.settings import FOLDER_BRONZE, FOLDER_LANDING, SEASON_STR
 
 _log = SetupLogger("02_landing_to_bronze.pontuados")
 
 
 def main():
-    PATH_PONTUADOS_SEASON = os.path.join(
+    path_pontuados_season = os.path.join(
         os.getcwd(),
         "datalake",
         FOLDER_LANDING,
@@ -23,7 +20,7 @@ def main():
     )
     _log.info("Reading 'pontuados' folder...")
     df_files = pd.DataFrame()
-    for root, dirs, files in os.walk(PATH_PONTUADOS_SEASON):
+    for root, dirs, files in os.walk(path_pontuados_season):
         for file in files:
             file_path = os.path.join(root, file)
             dict_load = load_dict_from_file_compress(file_path)
