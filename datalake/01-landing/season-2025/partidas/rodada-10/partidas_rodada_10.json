@@ -432,27 +432,27 @@
                 "d",
                 "d",
                 "e",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/26-05-2025/bragantino-juventude.ghtml?utm_source=cartolafc"
             },
             "local": "Cícero de Souza Marques",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-26 20:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-05-27T01:11:00.149Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 1,
             "partida_id": 334091,
             "clube_visitante_posicao": 19,
             "clube_visitante_id": 286,
