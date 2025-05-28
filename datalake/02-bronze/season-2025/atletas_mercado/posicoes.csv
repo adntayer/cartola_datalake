@@ -1,7 +1,7 @@
 id;nome;abreviacao;file_source
-1;Goleiro;gol;datalake/01-landing/season-2025/atletas_mercado/2025_05_25_atletas_mercado_rodada_09.json.gz
-2;Lateral;lat;datalake/01-landing/season-2025/atletas_mercado/2025_05_25_atletas_mercado_rodada_09.json.gz
-3;Zagueiro;zag;datalake/01-landing/season-2025/atletas_mercado/2025_05_25_atletas_mercado_rodada_09.json.gz
-4;Meia;mei;datalake/01-landing/season-2025/atletas_mercado/2025_05_25_atletas_mercado_rodada_09.json.gz
-5;Atacante;ata;datalake/01-landing/season-2025/atletas_mercado/2025_05_25_atletas_mercado_rodada_09.json.gz
-6;Técnico;tec;datalake/01-landing/season-2025/atletas_mercado/2025_05_25_atletas_mercado_rodada_09.json.gz
+1;Goleiro;gol;datalake/01-landing/season-2025/atletas_mercado/2025_05_28_atletas_mercado_rodada_10.json.gz
+2;Lateral;lat;datalake/01-landing/season-2025/atletas_mercado/2025_05_28_atletas_mercado_rodada_10.json.gz
+3;Zagueiro;zag;datalake/01-landing/season-2025/atletas_mercado/2025_05_28_atletas_mercado_rodada_10.json.gz
+4;Meia;mei;datalake/01-landing/season-2025/atletas_mercado/2025_05_28_atletas_mercado_rodada_10.json.gz
+5;Atacante;ata;datalake/01-landing/season-2025/atletas_mercado/2025_05_28_atletas_mercado_rodada_10.json.gz
+6;Técnico;tec;datalake/01-landing/season-2025/atletas_mercado/2025_05_28_atletas_mercado_rodada_10.json.gz
