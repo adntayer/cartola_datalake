@@ -316,7 +316,7 @@
             "clube_casa_id": 266,
             "timestamp": 1749684600,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -352,7 +352,7 @@
             "clube_casa_id": 263,
             "timestamp": 1749684600,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -388,7 +388,7 @@
             "clube_casa_id": 275,
             "timestamp": 1749684600,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -640,7 +640,7 @@
             "clube_casa_id": 292,
             "timestamp": 1749684600,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         }
     ],
     "rodada": 12
