@@ -285,25 +285,25 @@
         {
             "aproveitamento_visitante": [
                 "e",
-                "e",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/01-06-2025/flamengo-fortaleza.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-06-01 18:30:00",
             "inicio_cronometro_tr": "",
@@ -312,7 +312,7 @@
             "partida_id": 333887,
             "clube_visitante_posicao": 16,
             "clube_visitante_id": 356,
-            "clube_casa_posicao": 2,
+            "clube_casa_posicao": 3,
             "clube_casa_id": 262,
             "timestamp": 1748813400,
             "campeonato_id": 26,
@@ -324,29 +324,29 @@
                 "e",
                 "d",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/31-05-2025/vasco-bragantino.ghtml?utm_source=cartolafc"
             },
             "local": "São Januário",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-31 21:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-06-01T02:11:48.251Z",
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 0,
             "partida_id": 333888,
-            "clube_visitante_posicao": 4,
+            "clube_visitante_posicao": 1,
             "clube_visitante_id": 280,
             "clube_casa_posicao": 15,
             "clube_casa_id": 267,
@@ -356,17 +356,17 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -374,8 +374,8 @@
                 "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/01-06-2025/corinthians-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Neo Química Arena",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-06-01 18:30:00",
             "inicio_cronometro_tr": "",
@@ -392,26 +392,26 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "d",
-                "d",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/01-06-2025/santos-botafogo.ghtml?utm_source=cartolafc"
             },
             "local": "Vila Belmiro",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-06-01 16:00:00",
             "inicio_cronometro_tr": "",
@@ -428,26 +428,26 @@
         },
         {
             "aproveitamento_visitante": [
+                "d",
+                "d",
+                "d",
                 "e",
-                "d",
-                "d",
-                "d",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "d",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/jogo/01-06-2025/mirassol-sport.ghtml?utm_source=cartolafc"
             },
             "local": "Maião",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-06-01 11:00:00",
             "inicio_cronometro_tr": "",
@@ -464,35 +464,35 @@
         },
         {
             "aproveitamento_visitante": [
+                "v",
+                "v",
+                "v",
                 "d",
-                "v",
-                "v",
-                "v",
-                "d"
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/01-06-2025/cruzeiro-palmeiras.ghtml?utm_source=cartolafc"
             },
             "local": "Mineirão",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-06-01 19:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333892,
-            "clube_visitante_posicao": 1,
+            "clube_visitante_posicao": 2,
             "clube_visitante_id": 275,
-            "clube_casa_posicao": 3,
+            "clube_casa_posicao": 4,
             "clube_casa_id": 283,
             "timestamp": 1748817000,
             "campeonato_id": 26,
@@ -500,16 +500,16 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "d",
+                "e",
                 "e",
                 "e"
             ],
@@ -518,15 +518,15 @@
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/01-06-2025/internacional-fluminense.ghtml?utm_source=cartolafc"
             },
             "local": "Beira-Rio",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-06-01 20:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333893,
-            "clube_visitante_posicao": 5,
+            "clube_visitante_posicao": 6,
             "clube_visitante_id": 266,
             "clube_casa_posicao": 14,
             "clube_casa_id": 285,
@@ -540,31 +540,31 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "d",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/31-05-2025/bahia-sao-paulo.ghtml?utm_source=cartolafc"
             },
             "local": "Casa de Apostas Arena Fonte Nova",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-05-31 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-05-31T23:37:55.239Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 2,
             "partida_id": 333894,
             "clube_visitante_posicao": 13,
             "clube_visitante_id": 276,
-            "clube_casa_posicao": 7,
+            "clube_casa_posicao": 5,
             "clube_casa_id": 265,
             "timestamp": 1748727000,
             "campeonato_id": 26,
@@ -572,26 +572,26 @@
         },
         {
             "aproveitamento_visitante": [
+                "v",
+                "v",
                 "e",
-                "v",
-                "v",
                 "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/01-06-2025/ceara-atletico-mg.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-06-01 18:30:00",
             "inicio_cronometro_tr": "",
@@ -600,7 +600,7 @@
             "partida_id": 333895,
             "clube_visitante_posicao": 10,
             "clube_visitante_id": 282,
-            "clube_casa_posicao": 6,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 354,
             "timestamp": 1748813400,
             "campeonato_id": 26,
@@ -608,26 +608,26 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
-                "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/01-06-2025/juventude-gremio.ghtml?utm_source=cartolafc"
             },
             "local": "Alfredo Jaconi",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-06-01 16:00:00",
             "inicio_cronometro_tr": "",
