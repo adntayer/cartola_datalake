@@ -324,17 +324,17 @@
                 "e",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "v",
                 "e",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/04-06-2025/botafogo-ceara.ghtml?utm_source=cartolafc"
             },
             "local": "Nilton Santos (Engenhão)",
@@ -343,12 +343,12 @@
             "periodo_tr": "",
             "partida_data": "2025-06-04 20:00:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 3,
             "partida_id": 334088,
             "clube_visitante_posicao": 10,
             "clube_visitante_id": 354,
-            "clube_casa_posicao": 9,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 263,
             "timestamp": 1749078000,
             "campeonato_id": 26,
@@ -418,7 +418,7 @@
             "placar_oficial_visitante": 2,
             "placar_oficial_mandante": 0,
             "partida_id": 334090,
-            "clube_visitante_posicao": 7,
+            "clube_visitante_posicao": 8,
             "clube_visitante_id": 2305,
             "clube_casa_posicao": 13,
             "clube_casa_id": 276,
@@ -492,7 +492,7 @@
             "partida_id": 334092,
             "clube_visitante_posicao": 11,
             "clube_visitante_id": 264,
-            "clube_casa_posicao": 8,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 282,
             "timestamp": 1748131200,
             "campeonato_id": 26,
@@ -526,7 +526,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 1,
             "partida_id": 334093,
-            "clube_visitante_posicao": 6,
+            "clube_visitante_posicao": 7,
             "clube_visitante_id": 265,
             "clube_casa_posicao": 12,
             "clube_casa_id": 284,
