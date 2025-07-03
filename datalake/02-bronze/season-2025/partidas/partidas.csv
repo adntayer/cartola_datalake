@@ -239,8 +239,8 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', ''];Barradão;;;;2025-07-23 21:30:00;;;;334074;0;292;0;287;1753317000;26;True;;;16;datalake/01-landing/season-2025/partidas/partidas_rodada_16.json
 ['', '', '', '', ''];['', '', '', '', ''];Castelão (CE);;;;2025-07-23 19:00:00;;;;334075;0;2305;0;354;1753308000;26;True;;;16;datalake/01-landing/season-2025/partidas/partidas_rodada_16.json
 ['', '', '', '', ''];['', '', '', '', ''];Alfredo Jaconi;;;;2025-07-24 19:00:00;;;;334076;0;276;0;286;1753394400;26;True;;;16;datalake/01-landing/season-2025/partidas/partidas_rodada_16.json
-['d', 'v', 'd', 'd', 'd'];['d', 'v', 'e', 'v', 'v'];;;;;2025-07-13 00:00:00;;;;333957;14;276;1;262;1752375600;26;True;;;13;datalake/01-landing/season-2025/partidas/partidas_rodada_13.json
-['d', 'v', 'e', 'v', 'v'];['d', 'v', 'd', 'd', 'v'];;;;;2025-07-13 00:00:00;;;;333958;8;263;13;267;1752375600;26;True;;;13;datalake/01-landing/season-2025/partidas/partidas_rodada_13.json
+['d', 'v', 'd', 'd', 'd'];['d', 'v', 'e', 'v', 'v'];Maracanã;;;;2025-07-12 16:30:00;;;;333957;14;276;1;262;1752348600;26;True;;;13;datalake/01-landing/season-2025/partidas/partidas_rodada_13.json
+['d', 'v', 'e', 'v', 'v'];['d', 'v', 'd', 'd', 'v'];Mané Garrincha;;;;2025-07-12 18:30:00;;;;333958;8;263;13;267;1752355800;26;True;;;13;datalake/01-landing/season-2025/partidas/partidas_rodada_13.json
 ['e', 'd', 'v', 'v', 'd'];['d', 'v', 'e', 'e', 'e'];Neo Química Arena;;;;2025-07-13 19:00:00;;;;333959;3;280;10;264;1752444000;26;True;;;13;datalake/01-landing/season-2025/partidas/partidas_rodada_13.json
 ['v', 'v', 'v', 'd', 'd'];['e', 'd', 'v', 'd', 'v'];;;;;2025-07-13 00:00:00;;;;333960;4;275;15;277;1752375600;26;True;;;13;datalake/01-landing/season-2025/partidas/partidas_rodada_13.json
 ['v', 'd', 'e', 'v', 'v'];['d', 'v', 'e', 'v', 'v'];;;;;2025-07-13 00:00:00;;;;333961;6;266;9;2305;1752375600;26;True;;;13;datalake/01-landing/season-2025/partidas/partidas_rodada_13.json
