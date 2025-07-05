@@ -445,7 +445,7 @@
                 "label": "",
                 "url": ""
             },
-            "local": "",
+            "local": "Maião",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
@@ -460,7 +460,7 @@
             "clube_casa_id": 2305,
             "timestamp": 1752375600,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
