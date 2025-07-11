@@ -481,7 +481,7 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": " Arena MRV",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
@@ -496,7 +496,7 @@
             "clube_casa_id": 282,
             "timestamp": 1752708600,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -517,11 +517,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Arena do Grêmio",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-07-16 20:30:00",
+            "partida_data": "2025-07-29 20:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -530,9 +530,9 @@
             "clube_visitante_id": 356,
             "clube_casa_posicao": 0,
             "clube_casa_id": 284,
-            "timestamp": 1752708600,
+            "timestamp": 1753831800,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -553,7 +553,7 @@
                 "label": "",
                 "url": ""
             },
-            "local": "",
+            "local": "Fonte Nova",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
@@ -568,7 +568,7 @@
             "clube_casa_id": 265,
             "timestamp": 1752634800,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -625,7 +625,7 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": " Alfredo Jaconi",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
@@ -640,7 +640,7 @@
             "clube_casa_id": 286,
             "timestamp": 1752708600,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         }
     ],
     "rodada": 14
