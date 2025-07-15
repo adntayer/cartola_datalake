@@ -409,11 +409,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Morumbis",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-08-03 20:30:00",
+            "partida_data": "2025-08-04 20:00:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -422,7 +422,7 @@
             "clube_visitante_id": 286,
             "clube_casa_posicao": 0,
             "clube_casa_id": 277,
-            "timestamp": 1754263800,
+            "timestamp": 1754348400,
             "campeonato_id": 26,
             "valida": true
         },

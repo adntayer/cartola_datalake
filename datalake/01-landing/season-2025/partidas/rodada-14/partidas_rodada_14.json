@@ -284,22 +284,22 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "v",
+                "v",
+                "e",
+                "v"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "d",
+                "e",
+                "v",
+                "v"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/17-07-2025/fluminense-cruzeiro.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
             "status_transmissao_tr": "",
@@ -310,9 +310,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333997,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 2,
             "clube_visitante_id": 283,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 266,
             "timestamp": 1752791400,
             "campeonato_id": 26,
@@ -320,22 +320,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "d",
+                "e",
+                "e",
+                "d"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "e",
+                "v",
+                "v",
+                "v"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/16-07-2025/botafogo-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Nilton Santos (Engenhão)",
             "status_transmissao_tr": "",
@@ -346,9 +346,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333998,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 18,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 263,
             "timestamp": 1752712200,
             "campeonato_id": 26,
@@ -356,22 +356,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "v",
+                "e",
+                "v",
+                "v"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "v",
+                "v",
+                "d",
+                "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/16-07-2025/palmeiras-mirassol.ghtml?utm_source=cartolafc"
             },
             "local": "Allianz Parque",
             "status_transmissao_tr": "",
@@ -382,9 +382,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333999,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 10,
             "clube_visitante_id": 2305,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 5,
             "clube_casa_id": 275,
             "timestamp": 1752703200,
             "campeonato_id": 26,
@@ -392,22 +392,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "e",
+                "v",
+                "v",
+                "v"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "d",
+                "v",
+                "d",
+                "v"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/16-07-2025/santos-flamengo.ghtml?utm_source=cartolafc"
             },
             "local": "Vila Belmiro",
             "status_transmissao_tr": "",
@@ -418,9 +418,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334000,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 1,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 16,
             "clube_casa_id": 277,
             "timestamp": 1752706800,
             "campeonato_id": 26,
@@ -428,18 +428,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "d",
+                "d",
+                "d",
+                "d"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "v",
+                "v",
+                "d",
+                "v"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -454,9 +454,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334001,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 15,
             "clube_visitante_id": 276,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 3,
             "clube_casa_id": 280,
             "timestamp": 1752712200,
             "campeonato_id": 26,
@@ -464,18 +464,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "d",
+                "e",
+                "d",
+                "d"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "e",
+                "v",
+                "v",
+                "d"
             ],
             "transmissao": {
                 "label": "",
@@ -490,9 +490,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334002,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 8,
             "clube_casa_id": 282,
             "timestamp": 1752708600,
             "campeonato_id": 26,
@@ -500,18 +500,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "d",
+                "d",
+                "d",
+                "d"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "v",
+                "v",
+                "e",
+                "d"
             ],
             "transmissao": {
                 "label": "",
@@ -526,9 +526,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334003,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 19,
             "clube_visitante_id": 356,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 284,
             "timestamp": 1753831800,
             "campeonato_id": 26,
@@ -536,18 +536,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "e",
+                "d",
+                "d",
+                "v"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "d",
+                "v",
+                "v",
+                "v"
             ],
             "transmissao": {
                 "label": "",
@@ -562,9 +562,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334004,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 13,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 4,
             "clube_casa_id": 265,
             "timestamp": 1752634800,
             "campeonato_id": 26,
@@ -572,18 +572,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "e",
+                "e",
+                "e",
+                "d"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "v",
+                "d",
+                "d",
+                "v"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -598,9 +598,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334005,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 11,
             "clube_visitante_id": 264,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 354,
             "timestamp": 1752705000,
             "campeonato_id": 26,
@@ -608,18 +608,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "d",
+                "d",
+                "v",
+                "d"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "e",
+                "d",
+                "d",
+                "v"
             ],
             "transmissao": {
                 "label": "",
@@ -634,9 +634,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334006,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 14,
             "clube_visitante_id": 267,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 17,
             "clube_casa_id": 286,
             "timestamp": 1752708600,
             "campeonato_id": 26,
