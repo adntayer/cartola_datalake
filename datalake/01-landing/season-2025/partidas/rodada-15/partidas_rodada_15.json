@@ -284,18 +284,18 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "v",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "v",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -310,7 +310,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334027,
-            "clube_visitante_posicao": 7,
+            "clube_visitante_posicao": 8,
             "clube_visitante_id": 266,
             "clube_casa_posicao": 2,
             "clube_casa_id": 262,
@@ -334,21 +334,21 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/19-07-2025/vasco-gremio.ghtml?utm_source=cartolafc"
             },
             "local": "São Januário",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-07-19 17:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-07-19T22:32:23.884Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 1,
             "partida_id": 334028,
             "clube_visitante_posicao": 12,
             "clube_visitante_id": 284,
-            "clube_casa_posicao": 15,
+            "clube_casa_posicao": 14,
             "clube_casa_id": 267,
             "timestamp": 1752957000,
             "campeonato_id": 26,
@@ -357,16 +357,16 @@
         {
             "aproveitamento_visitante": [
                 "e",
-                "e",
                 "v",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
-                "v",
                 "d",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -382,7 +382,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334029,
-            "clube_visitante_posicao": 8,
+            "clube_visitante_posicao": 9,
             "clube_visitante_id": 282,
             "clube_casa_posicao": 5,
             "clube_casa_id": 275,
@@ -396,31 +396,31 @@
                 "e",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "d",
                 "e",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/19-07-2025/sao-paulo-corinthians.ghtml?utm_source=cartolafc"
             },
             "local": "Morumbis",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-07-19 21:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-07-20T02:07:52.789Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 2,
             "partida_id": 334030,
-            "clube_visitante_posicao": 9,
+            "clube_visitante_posicao": 10,
             "clube_visitante_id": 264,
-            "clube_casa_posicao": 16,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 276,
             "timestamp": 1752969600,
             "campeonato_id": 26,
@@ -432,31 +432,31 @@
                 "d",
                 "v",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "v",
                 "v",
                 "e",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/jogo/19-07-2025/mirassol-santos.ghtml?utm_source=cartolafc"
             },
             "local": "Maião",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-07-19 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-07-19T23:37:30.517Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 3,
             "partida_id": 334031,
-            "clube_visitante_posicao": 13,
+            "clube_visitante_posicao": 15,
             "clube_visitante_id": 277,
-            "clube_casa_posicao": 11,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 2305,
             "timestamp": 1752960600,
             "campeonato_id": 26,
@@ -464,18 +464,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "d",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
-                "v",
                 "e",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -500,18 +500,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
-                "e",
                 "d",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -526,9 +526,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334033,
-            "clube_visitante_posicao": 10,
+            "clube_visitante_posicao": 11,
             "clube_visitante_id": 354,
-            "clube_casa_posicao": 14,
+            "clube_casa_posicao": 16,
             "clube_casa_id": 285,
             "timestamp": 1753020000,
             "campeonato_id": 26,
@@ -537,16 +537,16 @@
         {
             "aproveitamento_visitante": [
                 "v",
-                "v",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "e",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -586,17 +586,17 @@
                 "e"
             ],
             "transmissao": {
-                "label": "ao vivo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/19-07-2025/fortaleza-bahia.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-07-19 16:00:00",
-            "inicio_cronometro_tr": "2025-07-19T19:00:16.004Z",
-            "placar_oficial_visitante": 0,
-            "placar_oficial_mandante": 0,
+            "inicio_cronometro_tr": "2025-07-19T21:31:34.049Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 1,
             "partida_id": 334037,
             "clube_visitante_posicao": 4,
             "clube_visitante_id": 265,
@@ -608,18 +608,18 @@
         },
         {
             "aproveitamento_visitante": [
+                "v",
+                "v",
+                "v",
                 "e",
-                "v",
-                "v",
-                "v",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "d",
-                "d",
                 "e",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
