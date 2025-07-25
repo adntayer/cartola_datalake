@@ -403,7 +403,7 @@
                 "d",
                 "e",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -418,9 +418,9 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 2,
             "partida_id": 334060,
-            "clube_visitante_posicao": 13,
+            "clube_visitante_posicao": 14,
             "clube_visitante_id": 284,
-            "clube_casa_posicao": 14,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 276,
             "timestamp": 1747526400,
             "campeonato_id": 26,
@@ -600,7 +600,7 @@
             "partida_id": 334065,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 354,
             "timestamp": 1747508400,
             "campeonato_id": 26,
@@ -619,7 +619,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
