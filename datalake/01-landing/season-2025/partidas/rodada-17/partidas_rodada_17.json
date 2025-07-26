@@ -298,8 +298,8 @@
                 "v"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/27-07-2025/flamengo-atletico-mg.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
             "status_transmissao_tr": "",
@@ -320,22 +320,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/26-07-2025/botafogo-corinthians.ghtml?utm_source=cartolafc"
             },
             "local": "Nilton Santos (Engenhão)",
             "status_transmissao_tr": "",
@@ -357,21 +357,21 @@
         {
             "aproveitamento_visitante": [
                 "v",
-                "v",
                 "e",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "d",
-                "d",
                 "e",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/26-07-2025/palmeiras-gremio.ghtml?utm_source=cartolafc"
             },
             "local": "Allianz Parque",
             "status_transmissao_tr": "",
@@ -406,8 +406,8 @@
                 "v"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/27-07-2025/sao-paulo-fluminense.ghtml?utm_source=cartolafc"
             },
             "local": "Morumbis",
             "status_transmissao_tr": "",
@@ -428,22 +428,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "e",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "v",
-                "v",
                 "e",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/jogo/26-07-2025/mirassol-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Maião",
             "status_transmissao_tr": "",
@@ -514,8 +514,8 @@
                 "v"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/27-07-2025/internacional-vasco.ghtml?utm_source=cartolafc"
             },
             "local": "Beira-Rio",
             "status_transmissao_tr": "",
@@ -572,17 +572,17 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "e",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "d",
-                "d",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -608,22 +608,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "v",
-                "d",
-                "d"
-            ],
-            "aproveitamento_mandante": [
-                "e",
-                "d",
                 "d",
                 "d",
                 "e"
             ],
+            "aproveitamento_mandante": [
+                "d",
+                "d",
+                "d",
+                "e",
+                "e"
+            ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/pe/futebol/brasileirao-serie-a/jogo/26-07-2025/sport-santos.ghtml?utm_source=cartolafc"
             },
             "local": "Ilha do Retiro",
             "status_transmissao_tr": "",
