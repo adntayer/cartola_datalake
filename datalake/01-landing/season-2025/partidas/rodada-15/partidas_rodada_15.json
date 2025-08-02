@@ -284,11 +284,11 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "d",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -320,16 +320,16 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "e",
-                "d",
-                "v"
-            ],
-            "aproveitamento_mandante": [
                 "d",
                 "v",
+                "e"
+            ],
+            "aproveitamento_mandante": [
+                "v",
                 "d",
+                "e",
                 "e",
                 "e"
             ],
@@ -435,10 +435,10 @@
                 "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "e",
                 "v",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -574,9 +574,9 @@
             "aproveitamento_visitante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -617,7 +617,7 @@
             "aproveitamento_mandante": [
                 "d",
                 "d",
-                "d",
+                "e",
                 "e",
                 "e"
             ],
