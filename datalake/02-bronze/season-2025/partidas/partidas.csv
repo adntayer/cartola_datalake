@@ -29,12 +29,12 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['v', 'v', 'e', 'd', 'v'];['e', 'v', 'e', 'e', 'e'];Barradão;;;;2025-06-12 19:00:00;;0;0;333924;2;283;16;287;1749765600;26;True;saiba como foi;https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/12-06-2025/vitoria-cruzeiro.ghtml?utm_source=cartolafc;12;datalake/01-landing/season-2025/partidas/partidas_rodada_12.json
 ['v', 'd', 'd', 'e', 'v'];['d', 'e', 'v', 'd', 'e'];Castelão (CE);;;;2025-06-12 19:30:00;;3;2;333925;15;277;18;356;1749767400;26;True;saiba como foi;https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/12-06-2025/fortaleza-santos.ghtml?utm_source=cartolafc;12;datalake/01-landing/season-2025/partidas/partidas_rodada_12.json
 ['d', 'v', 'v', 'v', 'e'];['d', 'd', 'e', 'e', 'e']; ;;;;2025-06-11 20:30:00;;;;333926;1;262;20;292;1749684600;26;False;;;12;datalake/01-landing/season-2025/partidas/partidas_rodada_12.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334107;0;267;0;262;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334108;0;282;0;263;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-21 00:00:00;;;;334107;0;267;0;262;1758423600;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-21 00:00:00;;;;334108;0;282;0;263;1758423600;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334109;0;356;0;275;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334110;0;276;0;277;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334111;0;286;0;2305;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334112;0;280;0;283;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-21 00:00:00;;;;334112;0;280;0;283;1758423600;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334113;0;284;0;285;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334114;0;266;0;287;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-21 20:30:00;;;;334115;0;265;0;354;1758497400;26;True;;;24;datalake/01-landing/season-2025/partidas/partidas_rodada_24.json
@@ -59,8 +59,8 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-14 20:30:00;;;;334024;0;2305;0;287;1765755000;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-14 20:30:00;;;;334025;0;283;0;354;1765755000;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-14 20:30:00;;;;334026;0;265;0;286;1765755000;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-01 20:30:00;;;;334197;0;283;0;262;1759361400;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-01 20:30:00;;;;334198;0;265;0;263;1759361400;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-10-01 00:00:00;;;;334197;0;283;0;262;1759287600;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-10-01 00:00:00;;;;334198;0;265;0;263;1759287600;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-01 20:30:00;;;;334199;0;267;0;275;1759361400;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-01 20:30:00;;;;334200;0;284;0;277;1759361400;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-01 20:30:00;;;;334201;0;280;0;2305;1759361400;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
@@ -189,14 +189,14 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-30 20:30:00;;;;334164;0;285;0;287;1764545400;26;True;;;32;datalake/01-landing/season-2025/partidas/partidas_rodada_32.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-30 20:30:00;;;;334165;0;356;0;354;1764545400;26;True;;;32;datalake/01-landing/season-2025/partidas/partidas_rodada_32.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-30 20:30:00;;;;334166;0;286;0;292;1764545400;26;True;;;32;datalake/01-landing/season-2025/partidas/partidas_rodada_32.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334207;0;282;0;266;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-10-16 00:00:00;;;;334207;0;282;0;266;1760583600;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334208;0;287;0;267;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334209;0;2305;0;264;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334210;0;275;0;276;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334211;0;284;0;280;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334212;0;292;0;283;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-10-16 00:00:00;;;;334211;0;284;0;280;1760583600;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-10-16 00:00:00;;;;334212;0;292;0;283;1760583600;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334213;0;263;0;285;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334214;0;262;0;265;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-10-16 00:00:00;;;;334214;0;262;0;265;1760583600;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334215;0;277;0;354;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-16 20:30:00;;;;334216;0;356;0;286;1760657400;26;True;;;27;datalake/01-landing/season-2025/partidas/partidas_rodada_27.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-10-26 20:30:00;;;;334217;0;286;0;266;1761521400;26;True;;;28;datalake/01-landing/season-2025/partidas/partidas_rodada_28.json
@@ -219,24 +219,24 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['v', 'd', 'e', 'e', 'd'];['e', 'v', 'e', 'e', 'e'];Barradão;;;;2025-05-10 18:30:00;;1;2;334044;17;267;16;287;1746912600;26;True;saiba como foi;https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/10-05-2025/vitoria-vasco.ghtml?utm_source=cartolafc;08;datalake/01-landing/season-2025/partidas/partidas_rodada_08.json
 ['v', 'd', 'd', 'd', 'd'];['d', 'e', 'v', 'd', 'e'];Presidente Vargas (CE);;;;2025-05-10 16:00:00;;0;5;334045;19;286;18;356;1746903600;26;True;saiba como foi;https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/10-05-2025/fortaleza-juventude.ghtml?utm_source=cartolafc;08;datalake/01-landing/season-2025/partidas/partidas_rodada_08.json
 ['v', 'v', 'e', 'd', 'v'];['d', 'd', 'e', 'e', 'e'];Ilha do Retiro;;;;2025-05-11 16:00:00;;4;0;334046;2;283;20;292;1746990000;26;True;saiba como foi;https://ge.globo.com/pe/futebol/brasileirao-serie-a/jogo/11-05-2025/sport-cruzeiro.ghtml?utm_source=cartolafc;08;datalake/01-landing/season-2025/partidas/partidas_rodada_08.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334227;0;275;0;262;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-05 00:00:00;;;;334227;0;275;0;262;1762311600;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334228;0;266;0;267;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334229;0;282;0;264;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334230;0;287;0;277;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334231;0;276;0;2305;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334232;0;356;0;283;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-05 00:00:00;;;;334232;0;356;0;283;1762311600;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334233;0;292;0;285;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334234;0;284;0;265;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-05 00:00:00;;;;334234;0;284;0;265;1762311600;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334235;0;263;0;354;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-09 20:30:00;;;;334236;0;280;0;286;1762731000;26;True;;;29;datalake/01-landing/season-2025/partidas/partidas_rodada_29.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334147;0;263;0;266;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-28 00:00:00;;;;334147;0;263;0;266;1759028400;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334148;0;283;0;267;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334149;0;262;0;264;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334150;0;354;0;276;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334151;0;277;0;280;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-28 00:00:00;;;;334151;0;277;0;280;1759028400;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334152;0;2305;0;282;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334153;0;287;0;284;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334154;0;275;0;265;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-28 00:00:00;;;;334154;0;275;0;265;1759028400;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334155;0;292;0;356;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-28 20:30:00;;;;334156;0;285;0;286;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-03 20:30:00;;;;334128;0;277;0;262;1764804600;26;True;;;33;datalake/01-landing/season-2025/partidas/partidas_rodada_33.json
@@ -279,14 +279,14 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-21 20:30:00;;;;333954;0;276;0;287;1766359800;26;True;;;38;datalake/01-landing/season-2025/partidas/partidas_rodada_38.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-21 20:30:00;;;;333955;0;275;0;354;1766359800;26;True;;;38;datalake/01-landing/season-2025/partidas/partidas_rodada_38.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-21 20:30:00;;;;333956;0;284;0;292;1766359800;26;True;;;38;datalake/01-landing/season-2025/partidas/partidas_rodada_38.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334047;0;264;0;266;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-14 00:00:00;;;;334047;0;264;0;266;1757818800;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334048;0;354;0;267;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334049;0;285;0;275;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334050;0;263;0;276;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334051;0;292;0;280;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-14 00:00:00;;;;334051;0;292;0;280;1757818800;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334052;0;277;0;282;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334053;0;2305;0;284;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334054;0;283;0;265;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-09-14 00:00:00;;;;334054;0;283;0;265;1757818800;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334055;0;287;0;356;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-09-14 20:30:00;;;;334056;0;262;0;286;1757892600;26;True;;;23;datalake/01-landing/season-2025/partidas/partidas_rodada_23.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-17 20:30:00;;;;333987;0;354;0;262;1766014200;26;True;;;37;datalake/01-landing/season-2025/partidas/partidas_rodada_37.json
@@ -299,11 +299,11 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-17 20:30:00;;;;333994;0;292;0;265;1766014200;26;True;;;37;datalake/01-landing/season-2025/partidas/partidas_rodada_37.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-17 20:30:00;;;;333995;0;264;0;356;1766014200;26;True;;;37;datalake/01-landing/season-2025/partidas/partidas_rodada_37.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-12-17 20:30:00;;;;333996;0;277;0;286;1766014200;26;True;;;37;datalake/01-landing/season-2025/partidas/partidas_rodada_37.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-19 20:30:00;;;;334237;0;285;0;266;1763595000;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-19 20:30:00;;;;334238;0;277;0;263;1763595000;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-19 00:00:00;;;;334237;0;285;0;266;1763521200;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-19 00:00:00;;;;334238;0;277;0;263;1763521200;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-19 20:30:00;;;;334239;0;283;0;275;1763595000;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-19 20:30:00;;;;334240;0;265;0;276;1763595000;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
-['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-19 20:30:00;;;;334241;0;267;0;280;1763595000;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
+['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-19 00:00:00;;;;334241;0;267;0;280;1763521200;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-19 20:30:00;;;;334242;0;354;0;282;1763595000;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-19 20:30:00;;;;334243;0;286;0;284;1763595000;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
 ['', '', '', '', ''];['', '', '', '', '']; ;;;;2025-11-19 20:30:00;;;;334244;0;264;0;287;1763595000;26;True;;;30;datalake/01-landing/season-2025/partidas/partidas_rodada_30.json
