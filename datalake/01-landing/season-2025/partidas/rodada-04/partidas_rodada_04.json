@@ -284,11 +284,11 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "d",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -363,8 +363,8 @@
                 "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
+                "e",
                 "e",
                 "e",
                 "e"
@@ -403,7 +403,7 @@
                 "d",
                 "e",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -420,7 +420,7 @@
             "partida_id": 333910,
             "clube_visitante_posicao": 10,
             "clube_visitante_id": 282,
-            "clube_casa_posicao": 15,
+            "clube_casa_posicao": 14,
             "clube_casa_id": 277,
             "timestamp": 1744849800,
             "campeonato_id": 26,
@@ -432,7 +432,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -454,7 +454,7 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 4,
             "partida_id": 333911,
-            "clube_visitante_posicao": 14,
+            "clube_visitante_posicao": 15,
             "clube_visitante_id": 284,
             "clube_casa_posicao": 6,
             "clube_casa_id": 2305,
@@ -475,7 +475,7 @@
                 "e",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -504,7 +504,7 @@
                 "v",
                 "v",
                 "e",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -583,7 +583,7 @@
                 "d",
                 "v",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -619,7 +619,7 @@
                 "e",
                 "e",
                 "e",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
