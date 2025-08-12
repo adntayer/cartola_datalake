@@ -612,27 +612,27 @@
                 "e",
                 "e",
                 "e",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "d",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/11-08-2025/juventude-corinthians.ghtml?utm_source=cartolafc"
             },
             "local": "Alfredo Jaconi",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-08-11 20:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-08-12T01:04:30.810Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 2,
             "partida_id": 334176,
             "clube_visitante_posicao": 13,
             "clube_visitante_id": 264,
