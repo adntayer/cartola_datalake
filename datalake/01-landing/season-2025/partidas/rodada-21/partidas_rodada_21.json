@@ -328,10 +328,10 @@
             ],
             "aproveitamento_mandante": [
                 "e",
-                "e",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "",
@@ -617,8 +617,8 @@
             "aproveitamento_mandante": [
                 "d",
                 "d",
-                "d",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {

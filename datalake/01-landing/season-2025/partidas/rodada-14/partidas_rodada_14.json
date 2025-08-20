@@ -609,21 +609,21 @@
         {
             "aproveitamento_visitante": [
                 "e",
-                "e",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
-                "d",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/20-08-2025/juventude-vasco.ghtml?utm_source=cartolafc"
             },
             "local": "Alfredo Jaconi",
             "status_transmissao_tr": "",
