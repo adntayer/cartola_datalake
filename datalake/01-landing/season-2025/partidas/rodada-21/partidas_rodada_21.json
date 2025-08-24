@@ -322,16 +322,16 @@
             "aproveitamento_visitante": [
                 "e",
                 "e",
-                "e",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "d",
                 "e",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -384,7 +384,7 @@
             "partida_id": 333929,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 2,
+            "clube_casa_posicao": 3,
             "clube_casa_id": 275,
             "timestamp": 1756159200,
             "campeonato_id": 26,
@@ -393,16 +393,16 @@
         {
             "aproveitamento_visitante": [
                 "d",
-                "d",
                 "v",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
                 "v",
-                "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -432,27 +432,27 @@
                 "v",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "d",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "ao vivo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/23-08-2025/bragantino-fluminense.ghtml?utm_source=cartolafc"
             },
             "local": "Cícero de Souza Marques",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-08-23 16:00:00",
-            "inicio_cronometro_tr": "2025-08-23T19:00:23.946Z",
-            "placar_oficial_visitante": 0,
-            "placar_oficial_mandante": 2,
+            "inicio_cronometro_tr": "2025-08-23T21:07:02.030Z",
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 4,
             "partida_id": 333931,
             "clube_visitante_posicao": 9,
             "clube_visitante_id": 266,
@@ -468,31 +468,31 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "v",
                 "d",
                 "e",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/23-08-2025/cruzeiro-internacional.ghtml?utm_source=cartolafc"
             },
             "local": "Mineirão",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-08-23 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-08-23T23:30:54.909Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 2,
             "partida_id": 333932,
             "clube_visitante_posicao": 12,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 3,
+            "clube_casa_posicao": 2,
             "clube_casa_id": 283,
             "timestamp": 1755984600,
             "campeonato_id": 26,
@@ -514,17 +514,17 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/23-08-2025/gremio-ceara.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-08-23 21:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-08-24T02:18:14.358Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 0,
             "partida_id": 333933,
             "clube_visitante_posicao": 10,
             "clube_visitante_id": 354,
@@ -536,18 +536,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "v",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "e",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -572,18 +572,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "e",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -608,18 +608,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
-                "d",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
