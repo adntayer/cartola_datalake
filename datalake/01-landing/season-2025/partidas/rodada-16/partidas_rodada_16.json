@@ -288,7 +288,7 @@
                 "e",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -310,7 +310,7 @@
             "placar_oficial_visitante": 2,
             "placar_oficial_mandante": 1,
             "partida_id": 334067,
-            "clube_visitante_posicao": 3,
+            "clube_visitante_posicao": 2,
             "clube_visitante_id": 275,
             "clube_casa_posicao": 9,
             "clube_casa_id": 266,
@@ -337,11 +337,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " São Januário",
+            "local": "São Januário",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-08-31 20:30:00",
+            "partida_data": "2025-09-24 19:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -350,7 +350,7 @@
             "clube_visitante_id": 265,
             "clube_casa_posicao": 16,
             "clube_casa_id": 267,
-            "timestamp": 1756683000,
+            "timestamp": 1758753000,
             "campeonato_id": 26,
             "valida": false
         },
@@ -382,7 +382,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 0,
             "partida_id": 334069,
-            "clube_visitante_posicao": 2,
+            "clube_visitante_posicao": 3,
             "clube_visitante_id": 283,
             "clube_casa_posicao": 11,
             "clube_casa_id": 264,
@@ -432,7 +432,7 @@
                 "e",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -517,11 +517,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " Arena do Grêmio",
+            "local": "Arena do Grêmio",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-08-31 20:30:00",
+            "partida_data": "2025-09-24 19:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -530,7 +530,7 @@
             "clube_visitante_id": 263,
             "clube_casa_posicao": 14,
             "clube_casa_id": 284,
-            "timestamp": 1756683000,
+            "timestamp": 1758753000,
             "campeonato_id": 26,
             "valida": false
         },
@@ -540,14 +540,14 @@
                 "e",
                 "v",
                 "e",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "e",
                 "d",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
