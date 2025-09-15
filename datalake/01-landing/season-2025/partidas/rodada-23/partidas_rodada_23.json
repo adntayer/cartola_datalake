@@ -334,21 +334,21 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/14-09-2025/vasco-ceara.ghtml?utm_source=cartolafc"
             },
             "local": "São Januário",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-09-14 20:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-09-15T01:30:58.191Z",
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 2,
             "partida_id": 334048,
-            "clube_visitante_posicao": 12,
+            "clube_visitante_posicao": 11,
             "clube_visitante_id": 354,
-            "clube_casa_posicao": 16,
+            "clube_casa_posicao": 15,
             "clube_casa_id": 267,
             "timestamp": 1757892600,
             "campeonato_id": 26,
@@ -382,7 +382,7 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 4,
             "partida_id": 334049,
-            "clube_visitante_posicao": 11,
+            "clube_visitante_posicao": 12,
             "clube_visitante_id": 285,
             "clube_casa_posicao": 2,
             "clube_casa_id": 275,
@@ -396,27 +396,27 @@
                 "d",
                 "v",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "e",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/14-09-2025/sao-paulo-botafogo.ghtml?utm_source=cartolafc"
             },
             "local": "Morumbis",
-            "status_transmissao_tr": "EM_ANDAMENTO",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "PRE_JOGO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-09-14 17:30:00",
-            "inicio_cronometro_tr": "2025-09-14T19:12:39.770Z",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-09-14T22:40:06.595Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 1,
             "partida_id": 334050,
             "clube_visitante_posicao": 6,
             "clube_visitante_id": 263,
@@ -478,19 +478,19 @@
                 "e"
             ],
             "transmissao": {
-                "label": "ao vivo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/14-09-2025/atletico-mg-santos.ghtml?utm_source=cartolafc"
             },
             "local": "Arena MRV",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-09-14 16:00:00",
-            "inicio_cronometro_tr": "2025-09-14T19:01:44.874Z",
-            "placar_oficial_visitante": 0,
-            "placar_oficial_mandante": 0,
+            "inicio_cronometro_tr": "2025-09-14T21:16:16.155Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 1,
             "partida_id": 334052,
-            "clube_visitante_posicao": 15,
+            "clube_visitante_posicao": 16,
             "clube_visitante_id": 277,
             "clube_casa_posicao": 13,
             "clube_casa_id": 282,
@@ -536,18 +536,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "e",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
-                "e",
                 "v",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -598,7 +598,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 2,
             "partida_id": 334055,
-            "clube_visitante_posicao": 18,
+            "clube_visitante_posicao": 17,
             "clube_visitante_id": 287,
             "clube_casa_posicao": 19,
             "clube_casa_id": 356,
@@ -612,31 +612,31 @@
                 "v",
                 "v",
                 "e",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "pré-jogo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/14-09-2025/juventude-flamengo.ghtml?utm_source=cartolafc"
             },
             "local": "Alfredo Jaconi",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-09-14 16:00:00",
-            "inicio_cronometro_tr": "2025-09-14T19:01:56.908Z",
-            "placar_oficial_visitante": 0,
+            "inicio_cronometro_tr": "2025-09-14T21:01:16.190Z",
+            "placar_oficial_visitante": 2,
             "placar_oficial_mandante": 0,
             "partida_id": 334056,
             "clube_visitante_posicao": 1,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 17,
+            "clube_casa_posicao": 18,
             "clube_casa_id": 286,
             "timestamp": 1757876400,
             "campeonato_id": 26,
