@@ -384,7 +384,7 @@
             "partida_id": 334049,
             "clube_visitante_posicao": 12,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 2,
+            "clube_casa_posicao": 3,
             "clube_casa_id": 275,
             "timestamp": 1757799000,
             "campeonato_id": 26,
@@ -540,29 +540,29 @@
                 "e",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "v",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/15-09-2025/bahia-cruzeiro.ghtml?utm_source=cartolafc"
             },
             "local": "Casa de Apostas Arena Fonte Nova",
-            "status_transmissao_tr": "CRIADA",
+            "status_transmissao_tr": "ENCERRADA",
             "status_cronometro_tr": "PAUSADO",
-            "periodo_tr": "",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-09-15 20:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-09-16T01:07:44.932Z",
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 1,
             "partida_id": 334054,
-            "clube_visitante_posicao": 3,
+            "clube_visitante_posicao": 2,
             "clube_visitante_id": 283,
             "clube_casa_posicao": 5,
             "clube_casa_id": 265,

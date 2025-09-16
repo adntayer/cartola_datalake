@@ -373,20 +373,20 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Allianz Parque",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-06-11 20:30:00",
+            "partida_data": "2025-10-11 19:00:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333919,
             "clube_visitante_posicao": 18,
             "clube_visitante_id": 286,
-            "clube_casa_posicao": 2,
+            "clube_casa_posicao": 3,
             "clube_casa_id": 275,
-            "timestamp": 1749684600,
+            "timestamp": 1760220000,
             "campeonato_id": 26,
             "valida": false
         },
@@ -432,7 +432,7 @@
                 "v",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -540,7 +540,7 @@
                 "e",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -562,7 +562,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 0,
             "partida_id": 333924,
-            "clube_visitante_posicao": 3,
+            "clube_visitante_posicao": 2,
             "clube_visitante_id": 283,
             "clube_casa_posicao": 17,
             "clube_casa_id": 287,

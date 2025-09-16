@@ -475,7 +475,7 @@
                 "e",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -490,9 +490,9 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 2,
             "partida_id": 333892,
-            "clube_visitante_posicao": 2,
+            "clube_visitante_posicao": 3,
             "clube_visitante_id": 275,
-            "clube_casa_posicao": 3,
+            "clube_casa_posicao": 2,
             "clube_casa_id": 283,
             "timestamp": 1748817000,
             "campeonato_id": 26,
@@ -547,7 +547,7 @@
                 "v",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
