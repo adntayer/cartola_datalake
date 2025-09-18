@@ -348,7 +348,7 @@
             "partida_id": 334108,
             "clube_visitante_posicao": 13,
             "clube_visitante_id": 282,
-            "clube_casa_posicao": 6,
+            "clube_casa_posicao": 5,
             "clube_casa_id": 263,
             "timestamp": 1758403800,
             "campeonato_id": 26,
@@ -586,8 +586,8 @@
                 "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/20-09-2025/ceara-bahia.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
             "status_transmissao_tr": "",
@@ -598,7 +598,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334115,
-            "clube_visitante_posicao": 5,
+            "clube_visitante_posicao": 6,
             "clube_visitante_id": 265,
             "clube_casa_posicao": 11,
             "clube_casa_id": 354,
