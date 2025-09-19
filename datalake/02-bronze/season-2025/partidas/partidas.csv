@@ -54,7 +54,7 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', ''];Neo Química Arena;;;;2025-09-28 20:30:00;;;;334149;0;262;0;264;1759102200;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', ''];Morumbis;;;;2025-09-29 20:00:00;;;;334150;0;354;0;276;1759186800;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', ''];Cícero de Souza Marques;;;;2025-09-28 18:30:00;;;;334151;0;277;0;280;1759095000;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
-['', '', '', '', ''];['', '', '', '', ''];Arena MRV;;;;2025-09-27 21:00:00;;;;334152;0;2305;0;282;1759017600;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
+['', '', '', '', ''];['', '', '', '', ''];Arena MRV;;;;2025-09-27 21:00:00;;;;334152;0;2305;0;282;1759017600;26;True;fique por dentro;https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/27-09-2025/atletico-mg-mirassol.ghtml?utm_source=cartolafc;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', ''];Arena do Grêmio;;;;2025-09-28 11:00:00;;;;334153;0;287;0;284;1759068000;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', ''];Casa de Apostas Arena Fonte Nova;;;;2025-09-28 16:00:00;;;;334154;0;275;0;265;1759086000;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
 ['', '', '', '', ''];['', '', '', '', ''];Castelão (CE);;;;2025-09-27 16:00:00;;;;334155;0;292;0;356;1758999600;26;True;;;25;datalake/01-landing/season-2025/partidas/partidas_rodada_25.json
@@ -214,7 +214,7 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', ''];Allianz Parque;;;;2025-10-01 19:00:00;;;;334199;0;267;0;275;1759356000;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
 ['', '', '', '', ''];['', '', '', '', ''];Vila Belmiro;;;;2025-10-01 21:30:00;;;;334200;0;284;0;277;1759365000;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
 ['', '', '', '', ''];['', '', '', '', ''];Maião;;;;2025-10-01 19:00:00;;;;334201;0;280;0;2305;1759356000;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
-['', '', '', '', ''];['', '', '', '', ''];Arena MRV;;;;2025-09-30 21:30:00;;;;334202;0;286;0;282;1759278600;26;False;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
+['', '', '', '', ''];['', '', '', '', ''];Arena MRV;;;;2025-09-30 21:30:00;;;;334202;0;286;0;282;1759278600;26;False;fique por dentro;https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/30-09-2025/atletico-mg-juventude.ghtml?utm_source=cartolafc;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
 ['', '', '', '', ''];['', '', '', '', ''];Beira-Rio;;;;2025-10-01 19:30:00;;;;334203;0;264;0;285;1759357800;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
 ['', '', '', '', ''];['', '', '', '', ''];Barradão;;;;2025-10-02 19:00:00;;;;334204;0;354;0;287;1759442400;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
 ['', '', '', '', ''];['', '', '', '', ''];Castelão (CE);;;;2025-10-02 19:30:00;;;;334205;0;276;0;356;1759444200;26;True;;;26;datalake/01-landing/season-2025/partidas/partidas_rodada_26.json
