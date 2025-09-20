@@ -284,18 +284,18 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "e",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "",
@@ -327,10 +327,10 @@
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -365,9 +365,9 @@
             "aproveitamento_mandante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "",
@@ -428,11 +428,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -471,10 +471,10 @@
                 "d"
             ],
             "aproveitamento_mandante": [
+                "d",
+                "d",
+                "d",
                 "e",
-                "d",
-                "d",
-                "d",
                 "e"
             ],
             "transmissao": {
@@ -543,11 +543,11 @@
                 "v"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -582,8 +582,8 @@
                 "d",
                 "d",
                 "d",
-                "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",

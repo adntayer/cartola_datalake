@@ -320,17 +320,17 @@
         },
         {
             "aproveitamento_visitante": [
+                "d",
+                "d",
+                "d",
                 "e",
-                "d",
-                "d",
-                "d",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -359,15 +359,15 @@
                 "d",
                 "d",
                 "d",
-                "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -536,18 +536,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -572,17 +572,17 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "e",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {

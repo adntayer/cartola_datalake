@@ -291,11 +291,11 @@
                 "v"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -320,17 +320,17 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -365,9 +365,9 @@
             "aproveitamento_mandante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -471,10 +471,10 @@
                 "e"
             ],
             "aproveitamento_mandante": [
+                "d",
+                "d",
+                "d",
                 "e",
-                "d",
-                "d",
-                "d",
                 "e"
             ],
             "transmissao": {
@@ -503,8 +503,8 @@
                 "d",
                 "d",
                 "d",
-                "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -543,11 +543,11 @@
                 "d"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "",
@@ -579,10 +579,10 @@
                 "v"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "e",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
