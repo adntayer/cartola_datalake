@@ -485,7 +485,7 @@
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-10-08 19:30:00",
+            "partida_data": "2025-10-08 19:00:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -494,7 +494,7 @@
             "clube_visitante_id": 292,
             "clube_casa_posicao": 15,
             "clube_casa_id": 282,
-            "timestamp": 1759962600,
+            "timestamp": 1759960800,
             "campeonato_id": 26,
             "valida": false
         },
