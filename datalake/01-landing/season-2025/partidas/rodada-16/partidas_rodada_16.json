@@ -321,15 +321,15 @@
         {
             "aproveitamento_visitante": [
                 "v",
-                "v",
                 "d",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "d",
-                "d",
                 "v",
+                "e",
                 "e",
                 "e"
             ],
@@ -501,21 +501,21 @@
         {
             "aproveitamento_visitante": [
                 "v",
-                "v",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "e",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/24-09-2025/gremio-botafogo.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
             "status_transmissao_tr": "",
