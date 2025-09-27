@@ -322,16 +322,16 @@
             "aproveitamento_visitante": [
                 "d",
                 "d",
-                "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "e",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -466,16 +466,16 @@
             "aproveitamento_visitante": [
                 "d",
                 "d",
-                "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -502,16 +502,16 @@
             "aproveitamento_visitante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
-                "d",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -572,11 +572,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -615,11 +615,11 @@
                 "v"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",

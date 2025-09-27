@@ -284,11 +284,11 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -358,9 +358,9 @@
             "aproveitamento_visitante": [
                 "v",
                 "v",
-                "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -464,18 +464,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
-                "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "",
@@ -502,9 +502,9 @@
             "aproveitamento_visitante": [
                 "d",
                 "d",
-                "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -537,10 +537,10 @@
         {
             "aproveitamento_visitante": [
                 "d",
-                "d",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -608,18 +608,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "e",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
