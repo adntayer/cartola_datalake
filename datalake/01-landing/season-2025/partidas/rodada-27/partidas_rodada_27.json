@@ -284,22 +284,22 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "e",
+                "d",
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "d",
+                "v",
+                "v",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/04-10-2025/fluminense-atletico-mg.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
             "status_transmissao_tr": "",
@@ -310,9 +310,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334207,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 14,
             "clube_visitante_id": 282,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 8,
             "clube_casa_id": 266,
             "timestamp": 1759613400,
             "campeonato_id": 26,
@@ -320,22 +320,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "d",
+                "d",
+                "d",
+                "v"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "e",
+                "v",
+                "v",
+                "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/05-10-2025/vasco-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "São Januário",
             "status_transmissao_tr": "",
@@ -346,9 +346,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334208,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 17,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 267,
             "timestamp": 1759690800,
             "campeonato_id": 26,
@@ -356,22 +356,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "e",
+                "v",
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "v",
+                "d",
+                "d",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/04-10-2025/corinthians-mirassol.ghtml?utm_source=cartolafc"
             },
             "local": "Neo Química Arena",
             "status_transmissao_tr": "",
@@ -382,9 +382,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334209,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 5,
             "clube_visitante_id": 2305,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 264,
             "timestamp": 1759622400,
             "campeonato_id": 26,
@@ -392,22 +392,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "v",
+                "v",
+                "d",
+                "v"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "v",
+                "d",
+                "d",
+                "v"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/05-10-2025/sao-paulo-palmeiras.ghtml?utm_source=cartolafc"
             },
             "local": "Morumbis",
             "status_transmissao_tr": "",
@@ -418,9 +418,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334210,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 2,
             "clube_visitante_id": 275,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 276,
             "timestamp": 1759690800,
             "campeonato_id": 26,
@@ -428,22 +428,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "v",
+                "e",
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "e",
+                "d",
+                "e",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/04-10-2025/bragantino-gremio.ghtml?utm_source=cartolafc"
             },
             "local": "Cícero de Souza Marques",
             "status_transmissao_tr": "",
@@ -454,9 +454,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334211,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 10,
             "clube_visitante_id": 284,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 280,
             "timestamp": 1759613400,
             "campeonato_id": 26,
@@ -464,18 +464,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "e",
+                "v",
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "v",
+                "v",
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -490,9 +490,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334212,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 3,
             "clube_casa_id": 283,
             "timestamp": 1759707000,
             "campeonato_id": 26,
@@ -500,22 +500,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "v",
+                "e",
+                "d",
+                "v"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "d",
+                "d",
+                "e",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/04-10-2025/internacional-botafogo.ghtml?utm_source=cartolafc"
             },
             "local": "Beira-Rio",
             "status_transmissao_tr": "",
@@ -526,9 +526,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334213,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 4,
             "clube_visitante_id": 263,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 15,
             "clube_casa_id": 285,
             "timestamp": 1759613400,
             "campeonato_id": 26,
@@ -536,18 +536,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "v",
+                "e",
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "e",
+                "d",
+                "v",
+                "d"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -562,9 +562,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334214,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 1,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 265,
             "timestamp": 1759699800,
             "campeonato_id": 26,
@@ -572,22 +572,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "e",
+                "e",
+                "v",
+                "e",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "e",
+                "e",
+                "v",
+                "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/05-10-2025/ceara-santos.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
             "status_transmissao_tr": "",
@@ -598,9 +598,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334215,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 16,
             "clube_visitante_id": 277,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 11,
             "clube_casa_id": 354,
             "timestamp": 1759707000,
             "campeonato_id": 26,
@@ -608,22 +608,22 @@
         },
         {
             "aproveitamento_visitante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "d",
+                "v",
+                "d",
+                "v",
+                "d"
             ],
             "aproveitamento_mandante": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "v",
+                "d",
+                "d",
+                "e",
+                "e"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/05-10-2025/juventude-fortaleza.ghtml?utm_source=cartolafc"
             },
             "local": "Alfredo Jaconi",
             "status_transmissao_tr": "",
@@ -634,9 +634,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334216,
-            "clube_visitante_posicao": 0,
+            "clube_visitante_posicao": 19,
             "clube_visitante_id": 356,
-            "clube_casa_posicao": 0,
+            "clube_casa_posicao": 18,
             "clube_casa_id": 286,
             "timestamp": 1759699800,
             "campeonato_id": 26,

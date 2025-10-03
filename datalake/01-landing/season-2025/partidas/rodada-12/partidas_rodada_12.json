@@ -288,7 +288,7 @@
                 "e",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -312,7 +312,7 @@
             "partida_id": 333917,
             "clube_visitante_posicao": 11,
             "clube_visitante_id": 354,
-            "clube_casa_posicao": 7,
+            "clube_casa_posicao": 8,
             "clube_casa_id": 266,
             "timestamp": 1749684600,
             "campeonato_id": 26,
@@ -382,7 +382,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333919,
-            "clube_visitante_posicao": 17,
+            "clube_visitante_posicao": 18,
             "clube_visitante_id": 286,
             "clube_casa_posicao": 2,
             "clube_casa_id": 275,
@@ -403,7 +403,7 @@
                 "v",
                 "d",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -420,7 +420,7 @@
             "partida_id": 333920,
             "clube_visitante_posicao": 12,
             "clube_visitante_id": 267,
-            "clube_casa_posicao": 8,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 276,
             "timestamp": 1749774600,
             "campeonato_id": 26,
@@ -547,7 +547,7 @@
                 "d",
                 "d",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -564,7 +564,7 @@
             "partida_id": 333924,
             "clube_visitante_posicao": 3,
             "clube_visitante_id": 283,
-            "clube_casa_posicao": 18,
+            "clube_casa_posicao": 17,
             "clube_casa_id": 287,
             "timestamp": 1749765600,
             "campeonato_id": 26,
@@ -583,7 +583,7 @@
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
