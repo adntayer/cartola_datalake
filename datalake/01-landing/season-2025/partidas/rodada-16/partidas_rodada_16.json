@@ -291,10 +291,10 @@
                 "v"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "d",
                 "v",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -363,10 +363,10 @@
                 "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "d",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -392,9 +392,9 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "d",
+                "e",
                 "e",
                 "e"
             ],
@@ -435,9 +435,9 @@
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "d",
+                "e",
                 "e",
                 "e"
             ],
@@ -471,10 +471,10 @@
                 "d"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -500,17 +500,17 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "e",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -572,10 +572,10 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
