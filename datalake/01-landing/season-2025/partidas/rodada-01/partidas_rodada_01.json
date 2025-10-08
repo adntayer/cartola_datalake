@@ -392,9 +392,9 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "d",
+                "e",
                 "e",
                 "e"
             ],
@@ -464,11 +464,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -500,11 +500,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "v",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -572,11 +572,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
