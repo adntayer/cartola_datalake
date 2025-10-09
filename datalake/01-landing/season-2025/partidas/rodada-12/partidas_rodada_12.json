@@ -625,11 +625,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": " ",
+            "local": "Ilha do Retiro",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-06-11 20:30:00",
+            "partida_data": "2025-11-13 20:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -638,7 +638,7 @@
             "clube_visitante_id": 262,
             "clube_casa_posicao": 20,
             "clube_casa_id": 292,
-            "timestamp": 1749684600,
+            "timestamp": 1763076600,
             "campeonato_id": 26,
             "valida": false
         }
