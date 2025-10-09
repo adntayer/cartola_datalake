@@ -288,14 +288,14 @@
                 "d",
                 "e",
                 "e",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -382,7 +382,7 @@
             "placar_oficial_visitante": 2,
             "placar_oficial_mandante": 4,
             "partida_id": 334009,
-            "clube_visitante_posicao": 14,
+            "clube_visitante_posicao": 15,
             "clube_visitante_id": 285,
             "clube_casa_posicao": 12,
             "clube_casa_id": 264,
@@ -432,7 +432,7 @@
                 "d",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -454,7 +454,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 1,
             "partida_id": 334011,
-            "clube_visitante_posicao": 6,
+            "clube_visitante_posicao": 4,
             "clube_visitante_id": 2305,
             "clube_casa_posicao": 9,
             "clube_casa_id": 280,
@@ -562,9 +562,9 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 1,
             "partida_id": 334014,
-            "clube_visitante_posicao": 4,
+            "clube_visitante_posicao": 5,
             "clube_visitante_id": 263,
-            "clube_casa_posicao": 5,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 265,
             "timestamp": 1746316800,
             "campeonato_id": 26,
@@ -612,7 +612,7 @@
                 "v",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -634,7 +634,7 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 0,
             "partida_id": 334016,
-            "clube_visitante_posicao": 15,
+            "clube_visitante_posicao": 14,
             "clube_visitante_id": 282,
             "clube_casa_posicao": 19,
             "clube_casa_id": 286,

@@ -295,7 +295,7 @@
                 "v",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "",
@@ -348,7 +348,7 @@
             "partida_id": 334218,
             "clube_visitante_posicao": 2,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 4,
+            "clube_casa_posicao": 5,
             "clube_casa_id": 263,
             "timestamp": 1760567400,
             "campeonato_id": 26,
@@ -439,7 +439,7 @@
                 "d",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "",
@@ -454,9 +454,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334221,
-            "clube_visitante_posicao": 14,
+            "clube_visitante_posicao": 15,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 6,
+            "clube_casa_posicao": 4,
             "clube_casa_id": 2305,
             "timestamp": 1760569200,
             "campeonato_id": 26,
@@ -475,7 +475,7 @@
                 "v",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -492,7 +492,7 @@
             "partida_id": 334222,
             "clube_visitante_posicao": 3,
             "clube_visitante_id": 283,
-            "clube_casa_posicao": 15,
+            "clube_casa_posicao": 14,
             "clube_casa_id": 282,
             "timestamp": 1760574600,
             "campeonato_id": 26,
@@ -562,7 +562,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334224,
-            "clube_visitante_posicao": 5,
+            "clube_visitante_posicao": 6,
             "clube_visitante_id": 265,
             "clube_casa_posicao": 17,
             "clube_casa_id": 287,
@@ -619,7 +619,7 @@
                 "d",
                 "e",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "",

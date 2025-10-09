@@ -310,7 +310,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 0,
             "partida_id": 334057,
-            "clube_visitante_posicao": 4,
+            "clube_visitante_posicao": 5,
             "clube_visitante_id": 263,
             "clube_casa_posicao": 2,
             "clube_casa_id": 262,
@@ -468,7 +468,7 @@
                 "v",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -490,7 +490,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 0,
             "partida_id": 334062,
-            "clube_visitante_posicao": 15,
+            "clube_visitante_posicao": 14,
             "clube_visitante_id": 282,
             "clube_casa_posicao": 3,
             "clube_casa_id": 283,
@@ -504,7 +504,7 @@
                 "d",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -526,9 +526,9 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 1,
             "partida_id": 334063,
-            "clube_visitante_posicao": 6,
+            "clube_visitante_posicao": 4,
             "clube_visitante_id": 2305,
-            "clube_casa_posicao": 14,
+            "clube_casa_posicao": 15,
             "clube_casa_id": 285,
             "timestamp": 1747611000,
             "campeonato_id": 26,
@@ -564,7 +564,7 @@
             "partida_id": 334064,
             "clube_visitante_posicao": 17,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 5,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 265,
             "timestamp": 1747594800,
             "campeonato_id": 26,
@@ -576,7 +576,7 @@
                 "d",
                 "e",
                 "e",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -612,7 +612,7 @@
                 "v",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",

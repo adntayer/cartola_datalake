@@ -295,7 +295,7 @@
                 "v",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -348,7 +348,7 @@
             "partida_id": 333998,
             "clube_visitante_posicao": 17,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 4,
+            "clube_casa_posicao": 5,
             "clube_casa_id": 263,
             "timestamp": 1752712200,
             "campeonato_id": 26,
@@ -360,7 +360,7 @@
                 "d",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -382,7 +382,7 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 1,
             "partida_id": 333999,
-            "clube_visitante_posicao": 6,
+            "clube_visitante_posicao": 4,
             "clube_visitante_id": 2305,
             "clube_casa_posicao": 1,
             "clube_casa_id": 275,
@@ -468,17 +468,17 @@
                 "d",
                 "e",
                 "e",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "v",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/08-10-2025/atletico-mg-sport.ghtml?utm_source=cartolafc"
             },
             "local": "Arena MRV",
@@ -487,12 +487,12 @@
             "periodo_tr": "",
             "partida_data": "2025-10-08 19:00:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 3,
             "partida_id": 334002,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 15,
+            "clube_casa_posicao": 14,
             "clube_casa_id": 282,
             "timestamp": 1759960800,
             "campeonato_id": 26,
@@ -562,9 +562,9 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334004,
-            "clube_visitante_posicao": 14,
+            "clube_visitante_posicao": 15,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 5,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 265,
             "timestamp": 1761170400,
             "campeonato_id": 26,
