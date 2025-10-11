@@ -364,10 +364,10 @@
             ],
             "aproveitamento_mandante": [
                 "v",
-                "v",
                 "d",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -616,10 +616,10 @@
             ],
             "aproveitamento_mandante": [
                 "d",
+                "e",
+                "e",
                 "d",
-                "e",
-                "e",
-                "d"
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
