@@ -360,17 +360,17 @@
                 "e",
                 "e",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "d",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/11-10-2025/palmeiras-juventude.ghtml?utm_source=cartolafc"
             },
             "local": "Allianz Parque",
@@ -379,8 +379,8 @@
             "periodo_tr": "",
             "partida_data": "2025-10-11 19:00:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 4,
             "partida_id": 333919,
             "clube_visitante_posicao": 19,
             "clube_visitante_id": 286,
