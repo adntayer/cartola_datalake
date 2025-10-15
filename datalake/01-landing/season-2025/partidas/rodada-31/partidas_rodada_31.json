@@ -449,7 +449,7 @@
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-11-01 18:30:00",
+            "partida_data": "2025-11-01 18:00:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -458,7 +458,7 @@
             "clube_visitante_id": 263,
             "clube_casa_posicao": 0,
             "clube_casa_id": 2305,
-            "timestamp": 1762032600,
+            "timestamp": 1762030800,
             "campeonato_id": 26,
             "valida": true
         },
@@ -629,7 +629,7 @@
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-11-02 20:30:00",
+            "partida_data": "2025-11-02 18:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -638,7 +638,7 @@
             "clube_visitante_id": 275,
             "clube_casa_posicao": 0,
             "clube_casa_id": 286,
-            "timestamp": 1762126200,
+            "timestamp": 1762119000,
             "campeonato_id": 26,
             "valida": true
         }
