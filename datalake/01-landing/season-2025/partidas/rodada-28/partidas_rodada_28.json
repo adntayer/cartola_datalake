@@ -284,26 +284,26 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "e",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
-                "v",
                 "e",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/16-10-2025/fluminense-juventude.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-16 21:30:00",
             "inicio_cronometro_tr": "",
@@ -324,27 +324,27 @@
                 "v",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/15-10-2025/botafogo-flamengo.ghtml?utm_source=cartolafc"
             },
             "local": "Nilton Santos (Engenhão)",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-15 19:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-16T00:35:54.882Z",
+            "placar_oficial_visitante": 3,
+            "placar_oficial_mandante": 0,
             "partida_id": 334218,
             "clube_visitante_posicao": 2,
             "clube_visitante_id": 262,
@@ -360,29 +360,29 @@
                 "e",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "v",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/15-10-2025/palmeiras-bragantino.ghtml?utm_source=cartolafc"
             },
             "local": "Allianz Parque",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-15 19:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-16T00:06:13.966Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 5,
             "partida_id": 334219,
-            "clube_visitante_posicao": 9,
+            "clube_visitante_posicao": 10,
             "clube_visitante_id": 280,
             "clube_casa_posicao": 1,
             "clube_casa_id": 275,
@@ -396,27 +396,27 @@
                 "d",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "e",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/15-10-2025/santos-corinthians.ghtml?utm_source=cartolafc"
             },
             "local": "Vila Belmiro",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-15 21:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-16T02:36:06.988Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 3,
             "partida_id": 334220,
             "clube_visitante_posicao": 12,
             "clube_visitante_id": 264,
@@ -432,27 +432,27 @@
                 "e",
                 "e",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "e",
                 "d",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/jogo/15-10-2025/mirassol-internacional.ghtml?utm_source=cartolafc"
             },
             "local": "Maião",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-15 20:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-16T01:00:28.371Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 3,
             "partida_id": 334221,
             "clube_visitante_posicao": 15,
             "clube_visitante_id": 285,
@@ -478,17 +478,17 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/15-10-2025/atletico-mg-cruzeiro.ghtml?utm_source=cartolafc"
             },
             "local": "Arena MRV",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-15 21:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-16T02:48:24.766Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 1,
             "partida_id": 334222,
             "clube_visitante_posicao": 3,
             "clube_visitante_id": 283,
@@ -500,26 +500,26 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "e",
                 "v",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/16-10-2025/gremio-sao-paulo.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-16 19:00:00",
             "inicio_cronometro_tr": "",
@@ -536,26 +536,26 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
-                "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/16-10-2025/vitoria-bahia.ghtml?utm_source=cartolafc"
             },
             "local": "Barradão",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-16 21:30:00",
             "inicio_cronometro_tr": "",
@@ -576,29 +576,29 @@
                 "v",
                 "d",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/15-10-2025/fortaleza-vasco.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-15 21:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-16T02:39:36.231Z",
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 0,
             "partida_id": 334225,
-            "clube_visitante_posicao": 11,
+            "clube_visitante_posicao": 9,
             "clube_visitante_id": 267,
             "clube_casa_posicao": 18,
             "clube_casa_id": 356,
@@ -622,19 +622,19 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/pe/futebol/brasileirao-serie-a/jogo/15-10-2025/sport-ceara.ghtml?utm_source=cartolafc"
             },
             "local": "Ilha do Retiro",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-15 20:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-16T01:03:01.576Z",
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 1,
             "partida_id": 334226,
-            "clube_visitante_posicao": 10,
+            "clube_visitante_posicao": 11,
             "clube_visitante_id": 354,
             "clube_casa_posicao": 20,
             "clube_casa_id": 292,
