@@ -63,12 +63,12 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', ''];São Januário;;;;2025-11-02 20:30:00;;;;334178;0;276;0;267;1762126200;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
 ['', '', '', '', ''];['', '', '', '', ''];Neo Química Arena;;;;2025-11-02 16:00:00;;;;334179;0;284;0;264;1762110000;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
 ['', '', '', '', ''];['', '', '', '', ''];Vila Belmiro;;;;2025-11-01 16:00:00;;;;334180;0;356;0;277;1762023600;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
-['', '', '', '', ''];['', '', '', '', ''];Maião;;;;2025-11-01 18:30:00;;;;334181;0;263;0;2305;1762032600;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
+['', '', '', '', ''];['', '', '', '', ''];Maião;;;;2025-11-01 18:00:00;;;;334181;0;263;0;2305;1762030800;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
 ['', '', '', '', ''];['', '', '', '', ''];Mineirão;;;;2025-11-01 16:00:00;;;;334182;0;287;0;283;1762023600;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
 ['', '', '', '', ''];['', '', '', '', ''];Beira-Rio;;;;2025-11-02 18:30:00;;;;334183;0;282;0;285;1762119000;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
 ['', '', '', '', ''];['', '', '', '', ''];Casa de Apostas Arena Fonte Nova;;;;2025-11-02 18:30:00;;;;334184;0;280;0;265;1762119000;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
 ['', '', '', '', ''];['', '', '', '', ''];Castelão (CE);;;;2025-11-02 16:00:00;;;;334185;0;266;0;354;1762110000;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
-['', '', '', '', ''];['', '', '', '', ''];Alfredo Jaconi;;;;2025-11-02 20:30:00;;;;334187;0;275;0;286;1762126200;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
+['', '', '', '', ''];['', '', '', '', ''];Alfredo Jaconi;;;;2025-11-02 18:30:00;;;;334187;0;275;0;286;1762119000;26;True;;;31;datalake/01-landing/season-2025/partidas/partidas_rodada_31.json
 ['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-23 00:00:00;;;;334077;0;280;0;262;1763866800;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
 ['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-23 00:00:00;;;;334078;0;284;0;263;1763866800;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
 ['', '', '', '', ''];['', '', '', '', ''];;;;;2025-11-23 00:00:00;;;;334079;0;266;0;275;1763866800;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
