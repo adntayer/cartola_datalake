@@ -295,7 +295,7 @@
                 "e",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "",
@@ -310,7 +310,7 @@
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333917,
-            "clube_visitante_posicao": 11,
+            "clube_visitante_posicao": 12,
             "clube_visitante_id": 354,
             "clube_casa_posicao": 7,
             "clube_casa_id": 266,
@@ -360,7 +360,7 @@
                 "e",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -403,7 +403,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -432,7 +432,7 @@
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -511,7 +511,7 @@
                 "v",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -526,9 +526,9 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 1,
             "partida_id": 333923,
-            "clube_visitante_posicao": 12,
+            "clube_visitante_posicao": 13,
             "clube_visitante_id": 264,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 11,
             "clube_casa_id": 284,
             "timestamp": 1749769200,
             "campeonato_id": 26,
@@ -547,7 +547,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -629,7 +629,7 @@
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-11-13 20:30:00",
+            "partida_data": "2025-11-15 18:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -638,7 +638,7 @@
             "clube_visitante_id": 262,
             "clube_casa_posicao": 20,
             "clube_casa_id": 292,
-            "timestamp": 1763076600,
+            "timestamp": 1763242200,
             "campeonato_id": 26,
             "valida": false
         }

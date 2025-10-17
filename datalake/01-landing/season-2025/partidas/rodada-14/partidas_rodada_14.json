@@ -295,7 +295,7 @@
                 "e",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -324,7 +324,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -432,7 +432,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -511,7 +511,7 @@
                 "v",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -528,7 +528,7 @@
             "partida_id": 334003,
             "clube_visitante_posicao": 18,
             "clube_visitante_id": 356,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 11,
             "clube_casa_id": 284,
             "timestamp": 1753831800,
             "campeonato_id": 26,
@@ -547,7 +547,7 @@
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -598,9 +598,9 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 0,
             "partida_id": 334005,
-            "clube_visitante_posicao": 12,
+            "clube_visitante_posicao": 13,
             "clube_visitante_id": 264,
-            "clube_casa_posicao": 11,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 354,
             "timestamp": 1752705000,
             "campeonato_id": 26,
@@ -619,7 +619,7 @@
                 "e",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
