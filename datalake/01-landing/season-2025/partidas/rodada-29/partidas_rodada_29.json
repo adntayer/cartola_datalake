@@ -284,26 +284,26 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/19-10-2025/flamengo-palmeiras.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-19 16:00:00",
             "inicio_cronometro_tr": "",
@@ -338,8 +338,8 @@
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/20-10-2025/vasco-fluminense.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-20 19:30:00",
             "inicio_cronometro_tr": "",
@@ -360,31 +360,31 @@
                 "d",
                 "v",
                 "e",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "e",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/18-10-2025/corinthians-atletico-mg.ghtml?utm_source=cartolafc"
             },
             "local": "Neo Química Arena",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-18 18:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-18T23:43:42.577Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 1,
             "partida_id": 334229,
             "clube_visitante_posicao": 14,
             "clube_visitante_id": 282,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 264,
             "timestamp": 1760823000,
             "campeonato_id": 26,
@@ -410,8 +410,8 @@
                 "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/20-10-2025/santos-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Vila Belmiro",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-20 21:30:00",
             "inicio_cronometro_tr": "",
@@ -429,25 +429,25 @@
         {
             "aproveitamento_visitante": [
                 "d",
-                "d",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "d",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/jogo/19-10-2025/mirassol-sao-paulo.ghtml?utm_source=cartolafc"
             },
             "local": "Maião",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-19 18:30:00",
             "inicio_cronometro_tr": "",
@@ -468,27 +468,27 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "e",
                 "e",
                 "e",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/18-10-2025/cruzeiro-fortaleza.ghtml?utm_source=cartolafc"
             },
             "local": "Mineirão",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-10-18 21:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-10-19T01:59:38.259Z",
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 1,
             "partida_id": 334232,
             "clube_visitante_posicao": 18,
             "clube_visitante_id": 356,
@@ -500,29 +500,29 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "e",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "e",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/19-10-2025/internacional-sport.ghtml?utm_source=cartolafc"
             },
             "local": "Beira-Rio",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-19 18:30:00",
-            "inicio_cronometro_tr": "",
+            "inicio_cronometro_tr": "2025-10-18T00:03:13.302Z",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 334233,
@@ -536,26 +536,26 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "e",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/19-10-2025/bahia-gremio.ghtml?utm_source=cartolafc"
             },
             "local": "Casa de Apostas Arena Fonte Nova",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-19 20:30:00",
             "inicio_cronometro_tr": "",
@@ -572,17 +572,17 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "v",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -590,8 +590,8 @@
                 "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/19-10-2025/ceara-botafogo.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-19 18:30:00",
             "inicio_cronometro_tr": "",
@@ -600,7 +600,7 @@
             "partida_id": 334235,
             "clube_visitante_posicao": 5,
             "clube_visitante_id": 263,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 354,
             "timestamp": 1760909400,
             "campeonato_id": 26,
@@ -626,8 +626,8 @@
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/20-10-2025/juventude-bragantino.ghtml?utm_source=cartolafc"
             },
             "local": "Alfredo Jaconi",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-10-20 19:00:00",
             "inicio_cronometro_tr": "",
