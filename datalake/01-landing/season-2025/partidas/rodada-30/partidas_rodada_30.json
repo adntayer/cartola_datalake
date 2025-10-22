@@ -285,10 +285,10 @@
         {
             "aproveitamento_visitante": [
                 "e",
-                "e",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -298,8 +298,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/25-10-2025/fluminense-internacional.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
             "status_transmissao_tr": "",
@@ -334,8 +334,8 @@
                 "v"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/26-10-2025/botafogo-santos.ghtml?utm_source=cartolafc"
             },
             "local": "Nilton Santos (Engenhão)",
             "status_transmissao_tr": "",
@@ -370,8 +370,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/26-10-2025/palmeiras-cruzeiro.ghtml?utm_source=cartolafc"
             },
             "local": "Allianz Parque",
             "status_transmissao_tr": "",
@@ -392,11 +392,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -406,8 +406,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/25-10-2025/sao-paulo-bahia.ghtml?utm_source=cartolafc"
             },
             "local": "Morumbis",
             "status_transmissao_tr": "",
@@ -442,8 +442,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/26-10-2025/bragantino-vasco.ghtml?utm_source=cartolafc"
             },
             "local": "Cícero de Souza Marques",
             "status_transmissao_tr": "",
@@ -514,8 +514,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/26-10-2025/gremio-juventude.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
             "status_transmissao_tr": "",
@@ -586,8 +586,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/25-10-2025/fortaleza-flamengo.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
             "status_transmissao_tr": "",
@@ -622,8 +622,8 @@
                 "d"
             ],
             "transmissao": {
-                "label": "",
-                "url": ""
+                "label": "fique por dentro",
+                "url": "https://ge.globo.com/pe/futebol/brasileirao-serie-a/jogo/25-10-2025/sport-mirassol.ghtml?utm_source=cartolafc"
             },
             "local": "Ilha do Retiro",
             "status_transmissao_tr": "",

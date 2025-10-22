@@ -537,17 +537,17 @@
         {
             "aproveitamento_visitante": [
                 "e",
-                "e",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",

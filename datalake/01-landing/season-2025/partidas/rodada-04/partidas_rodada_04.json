@@ -464,11 +464,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -508,10 +508,10 @@
             ],
             "aproveitamento_mandante": [
                 "e",
-                "e",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
