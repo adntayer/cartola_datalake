@@ -348,7 +348,7 @@
             "partida_id": 334088,
             "clube_visitante_posicao": 13,
             "clube_visitante_id": 354,
-            "clube_casa_posicao": 5,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 263,
             "timestamp": 1749078000,
             "campeonato_id": 26,
@@ -504,7 +504,7 @@
                 "v",
                 "d",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -526,7 +526,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 1,
             "partida_id": 334093,
-            "clube_visitante_posicao": 6,
+            "clube_visitante_posicao": 5,
             "clube_visitante_id": 265,
             "clube_casa_posicao": 12,
             "clube_casa_id": 284,
@@ -612,7 +612,7 @@
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "e",
