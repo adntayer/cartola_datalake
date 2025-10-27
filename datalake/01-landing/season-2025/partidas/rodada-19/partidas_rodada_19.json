@@ -331,7 +331,7 @@
                 "v",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -346,9 +346,9 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 1,
             "partida_id": 334168,
-            "clube_visitante_posicao": 12,
+            "clube_visitante_posicao": 13,
             "clube_visitante_id": 282,
-            "clube_casa_posicao": 9,
+            "clube_casa_posicao": 8,
             "clube_casa_id": 267,
             "timestamp": 1754852400,
             "campeonato_id": 26,
@@ -420,7 +420,7 @@
             "partida_id": 334170,
             "clube_visitante_posicao": 17,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 8,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 276,
             "timestamp": 1754775000,
             "campeonato_id": 26,
@@ -439,7 +439,7 @@
                 "v",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -456,7 +456,7 @@
             "partida_id": 334171,
             "clube_visitante_posicao": 15,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 11,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 280,
             "timestamp": 1754775000,
             "campeonato_id": 26,
@@ -511,7 +511,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -528,7 +528,7 @@
             "partida_id": 334173,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 11,
             "clube_casa_id": 284,
             "timestamp": 1754868600,
             "campeonato_id": 26,
@@ -619,7 +619,7 @@
                 "d",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",

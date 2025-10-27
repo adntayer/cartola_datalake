@@ -331,7 +331,7 @@
                 "v",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -348,7 +348,7 @@
             "partida_id": 333898,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 9,
+            "clube_casa_posicao": 8,
             "clube_casa_id": 267,
             "timestamp": 1744502400,
             "campeonato_id": 26,
@@ -420,7 +420,7 @@
             "partida_id": 333900,
             "clube_visitante_posicao": 3,
             "clube_visitante_id": 283,
-            "clube_casa_posicao": 8,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 276,
             "timestamp": 1744576200,
             "campeonato_id": 26,
@@ -439,7 +439,7 @@
                 "v",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -456,7 +456,7 @@
             "partida_id": 333901,
             "clube_visitante_posicao": 6,
             "clube_visitante_id": 263,
-            "clube_casa_posicao": 11,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 280,
             "timestamp": 1744484400,
             "campeonato_id": 26,
@@ -492,7 +492,7 @@
             "partida_id": 333902,
             "clube_visitante_posicao": 17,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 282,
             "timestamp": 1744587000,
             "campeonato_id": 26,
@@ -511,7 +511,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -528,7 +528,7 @@
             "partida_id": 333903,
             "clube_visitante_posicao": 2,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 11,
             "clube_casa_id": 284,
             "timestamp": 1744576200,
             "campeonato_id": 26,
@@ -619,7 +619,7 @@
                 "d",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
