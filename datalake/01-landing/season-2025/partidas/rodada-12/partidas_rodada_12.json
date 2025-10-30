@@ -288,17 +288,17 @@
                 "e",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "v",
                 "d",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/29-10-2025/fluminense-ceara.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
@@ -307,12 +307,12 @@
             "periodo_tr": "",
             "partida_data": "2025-10-29 19:00:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 1,
             "partida_id": 333917,
             "clube_visitante_posicao": 14,
             "clube_visitante_id": 354,
-            "clube_casa_posicao": 7,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 266,
             "timestamp": 1761775200,
             "campeonato_id": 26,
@@ -348,7 +348,7 @@
             "partida_id": 333918,
             "clube_visitante_posicao": 4,
             "clube_visitante_id": 2305,
-            "clube_casa_posicao": 6,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 263,
             "timestamp": 1758148200,
             "campeonato_id": 26,
