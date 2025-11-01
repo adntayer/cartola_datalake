@@ -320,11 +320,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "v",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -356,11 +356,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -464,17 +464,17 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "e",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "e",
-                "e",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -500,10 +500,10 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
@@ -536,11 +536,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "v",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -572,10 +572,10 @@
         },
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
@@ -608,11 +608,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "d",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
