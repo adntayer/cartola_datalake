@@ -288,7 +288,7 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -312,7 +312,7 @@
             "partida_id": 333907,
             "clube_visitante_posicao": 19,
             "clube_visitante_id": 286,
-            "clube_casa_posicao": 1,
+            "clube_casa_posicao": 2,
             "clube_casa_id": 262,
             "timestamp": 1744849800,
             "campeonato_id": 26,
@@ -324,7 +324,7 @@
                 "d",
                 "d",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -346,9 +346,9 @@
             "placar_oficial_visitante": 2,
             "placar_oficial_mandante": 2,
             "partida_id": 333908,
-            "clube_visitante_posicao": 10,
+            "clube_visitante_posicao": 8,
             "clube_visitante_id": 276,
-            "clube_casa_posicao": 7,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 263,
             "timestamp": 1744839000,
             "campeonato_id": 26,
@@ -360,14 +360,14 @@
                 "d",
                 "v",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "d",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -382,9 +382,9 @@
             "placar_oficial_visitante": 2,
             "placar_oficial_mandante": 0,
             "partida_id": 333909,
-            "clube_visitante_posicao": 6,
+            "clube_visitante_posicao": 7,
             "clube_visitante_id": 266,
-            "clube_casa_posicao": 9,
+            "clube_casa_posicao": 10,
             "clube_casa_id": 264,
             "timestamp": 1744842600,
             "campeonato_id": 26,
@@ -418,7 +418,7 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 2,
             "partida_id": 333910,
-            "clube_visitante_posicao": 14,
+            "clube_visitante_posicao": 13,
             "clube_visitante_id": 282,
             "clube_casa_posicao": 16,
             "clube_casa_id": 277,
@@ -432,7 +432,7 @@
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -454,7 +454,7 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 4,
             "partida_id": 333911,
-            "clube_visitante_posicao": 12,
+            "clube_visitante_posicao": 11,
             "clube_visitante_id": 284,
             "clube_casa_posicao": 4,
             "clube_casa_id": 2305,
@@ -468,7 +468,7 @@
                 "v",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -504,7 +504,7 @@
                 "v",
                 "d",
                 "e",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -526,7 +526,7 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 0,
             "partida_id": 333913,
-            "clube_visitante_posicao": 2,
+            "clube_visitante_posicao": 1,
             "clube_visitante_id": 275,
             "clube_casa_posicao": 15,
             "clube_casa_id": 285,
@@ -576,14 +576,14 @@
                 "v",
                 "v",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "d",
                 "d",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -598,9 +598,9 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 2,
             "partida_id": 333915,
-            "clube_visitante_posicao": 8,
+            "clube_visitante_posicao": 9,
             "clube_visitante_id": 267,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 354,
             "timestamp": 1744763400,
             "campeonato_id": 26,
@@ -612,7 +612,7 @@
                 "d",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
@@ -634,7 +634,7 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 0,
             "partida_id": 333916,
-            "clube_visitante_posicao": 11,
+            "clube_visitante_posicao": 14,
             "clube_visitante_id": 280,
             "clube_casa_posicao": 20,
             "clube_casa_id": 292,
