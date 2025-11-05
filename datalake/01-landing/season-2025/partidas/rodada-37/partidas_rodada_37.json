@@ -373,11 +373,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": "",
+            "local": "Allianz Parque",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-12-03 00:00:00",
+            "partida_data": "2025-11-19 19:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -386,9 +386,9 @@
             "clube_visitante_id": 287,
             "clube_casa_posicao": 0,
             "clube_casa_id": 275,
-            "timestamp": 1764730800,
+            "timestamp": 1763591400,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -445,11 +445,11 @@
                 "label": "",
                 "url": ""
             },
-            "local": "",
+            "local": "Cícero de Souza Marques",
             "status_transmissao_tr": "",
             "status_cronometro_tr": "",
             "periodo_tr": "",
-            "partida_data": "2025-12-03 00:00:00",
+            "partida_data": "2025-11-16 19:00:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
@@ -458,9 +458,9 @@
             "clube_visitante_id": 282,
             "clube_casa_posicao": 0,
             "clube_casa_id": 280,
-            "timestamp": 1764730800,
+            "timestamp": 1763330400,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
