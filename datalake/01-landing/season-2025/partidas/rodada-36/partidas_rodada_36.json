@@ -460,7 +460,7 @@
             "clube_casa_id": 280,
             "timestamp": 1764194400,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -496,7 +496,7 @@
             "clube_casa_id": 282,
             "timestamp": 1764117000,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
@@ -532,7 +532,7 @@
             "clube_casa_id": 284,
             "timestamp": 1764117000,
             "campeonato_id": 26,
-            "valida": true
+            "valida": false
         },
         {
             "aproveitamento_visitante": [
