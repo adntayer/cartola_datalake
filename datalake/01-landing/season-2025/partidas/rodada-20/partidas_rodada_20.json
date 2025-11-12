@@ -284,8 +284,8 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
+                "e",
                 "e",
                 "e",
                 "e"
@@ -471,11 +471,11 @@
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "e",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
