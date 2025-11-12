@@ -74,7 +74,7 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', ''];Allianz Parque;;;;2025-11-22 21:30:00;;;;334079;0;266;0;275;1763857800;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
 ['', '', '', '', ''];['', '', '', '', ''];Vila Belmiro;;;;2025-11-23 16:00:00;;;;334080;0;286;0;276;1763924400;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
 ['', '', '', '', ''];['', '', '', '', ''];Maião;;;;2025-11-24 19:00:00;;;;334081;0;354;0;2305;1764021600;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
-['', '', '', '', ''];['', '', '', '', ''];Mineirão;;;;2025-11-23 20:30:00;;;;334082;0;264;0;283;1763940600;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
+['', '', '', '', ''];['', '', '', '', ''];Mineirão;;;;2025-11-23 20:30:00;;;;334082;0;264;0;283;1763940600;26;True;fique por dentro;https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/23-11-2025/cruzeiro-corinthians.ghtml?utm_source=cartolafc;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
 ['', '', '', '', ''];['', '', '', '', ''];Beira-Rio;;;;2025-11-24 21:00:00;;;;334083;0;277;0;285;1764028800;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
 ['', '', '', '', ''];['', '', '', '', ''];Casa de Apostas Arena Fonte Nova;;;;2025-11-23 16:00:00;;;;334084;0;267;0;265;1763924400;26;True;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
 ['', '', '', '', ''];['', '', '', '', ''];Castelão (CE);;;;2025-11-30 18:30:00;;;;334085;0;282;0;356;1764538200;26;False;;;35;datalake/01-landing/season-2025/partidas/partidas_rodada_35.json
@@ -83,9 +83,9 @@ aproveitamento_visitante;aproveitamento_mandante;local;status_transmissao_tr;sta
 ['', '', '', '', ''];['', '', '', '', ''];São Januário;;;;2025-11-28 19:30:00;;;;334018;0;285;0;267;1764369000;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
 ['', '', '', '', ''];['', '', '', '', ''];Neo Química Arena;;;;2025-11-30 16:00:00;;;;334019;0;263;0;264;1764529200;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
 ['', '', '', '', ''];['', '', '', '', ''];Vila Belmiro;;;;2025-11-28 21:30:00;;;;334020;0;292;0;277;1764376200;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
-['', '', '', '', ''];['', '', '', '', ''];Cícero de Souza Marques;;;;2025-11-26 19:00:00;;;;334021;0;356;0;280;1764194400;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
-['', '', '', '', ''];['', '', '', '', ''];Arena MRV;;;;2025-11-25 21:30:00;;;;334022;0;262;0;282;1764117000;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
-['', '', '', '', ''];['', '', '', '', ''];Arena do Grêmio;;;;2025-11-25 21:30:00;;;;334023;0;275;0;284;1764117000;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
+['', '', '', '', ''];['', '', '', '', ''];Cícero de Souza Marques;;;;2025-11-26 19:00:00;;;;334021;0;356;0;280;1764194400;26;False;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
+['', '', '', '', ''];['', '', '', '', ''];Arena MRV;;;;2025-11-25 21:30:00;;;;334022;0;262;0;282;1764117000;26;False;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
+['', '', '', '', ''];['', '', '', '', ''];Arena do Grêmio;;;;2025-11-25 21:30:00;;;;334023;0;275;0;284;1764117000;26;False;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
 ['', '', '', '', ''];['', '', '', '', ''];Barradão;;;;2025-11-29 16:00:00;;;;334024;0;2305;0;287;1764442800;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
 ['', '', '', '', ''];['', '', '', '', ''];Castelão (CE);;;;2025-11-29 20:30:00;;;;334025;0;283;0;354;1764459000;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
 ['', '', '', '', ''];['', '', '', '', ''];Alfredo Jaconi;;;;2025-11-28 19:00:00;;;;334026;0;265;0;286;1764367200;26;True;;;36;datalake/01-landing/season-2025/partidas/partidas_rodada_36.json
