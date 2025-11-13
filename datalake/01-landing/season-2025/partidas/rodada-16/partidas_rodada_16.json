@@ -478,7 +478,7 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/12-11-2025/atletico-mg-fortaleza.ghtml?utm_source=cartolafc"
             },
             "local": "Arena MRV",
@@ -487,8 +487,8 @@
             "periodo_tr": "",
             "partida_data": "2025-11-12 20:30:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 3,
+            "placar_oficial_mandante": 3,
             "partida_id": 334072,
             "clube_visitante_posicao": 19,
             "clube_visitante_id": 356,
