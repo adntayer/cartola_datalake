@@ -288,14 +288,14 @@
                 "d",
                 "d",
                 "d",
-                "d"
+                "e"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "d",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -399,11 +399,11 @@
                 "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "e",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -608,11 +608,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "v",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
