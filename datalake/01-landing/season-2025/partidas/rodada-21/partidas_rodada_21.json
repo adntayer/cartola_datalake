@@ -360,7 +360,7 @@
                 "d",
                 "d",
                 "d",
-                "d"
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -608,10 +608,10 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "e",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
