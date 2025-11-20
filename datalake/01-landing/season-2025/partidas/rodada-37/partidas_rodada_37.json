@@ -370,7 +370,7 @@
                 ""
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/19-11-2025/palmeiras-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Allianz Parque",
@@ -379,8 +379,8 @@
             "periodo_tr": "",
             "partida_data": "2025-11-19 19:30:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 0,
             "partida_id": 333989,
             "clube_visitante_posicao": 0,
             "clube_visitante_id": 287,
