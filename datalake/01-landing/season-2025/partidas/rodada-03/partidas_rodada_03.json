@@ -284,10 +284,10 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "e",
                 "d",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
@@ -310,9 +310,9 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 1,
             "partida_id": 333897,
-            "clube_visitante_posicao": 16,
+            "clube_visitante_posicao": 17,
             "clube_visitante_id": 277,
-            "clube_casa_posicao": 6,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 266,
             "timestamp": 1744583400,
             "campeonato_id": 26,
@@ -324,14 +324,14 @@
                 "d",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -348,7 +348,7 @@
             "partida_id": 333898,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 13,
             "clube_casa_id": 267,
             "timestamp": 1744502400,
             "campeonato_id": 26,
@@ -360,7 +360,7 @@
                 "d",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -396,14 +396,14 @@
                 "v",
                 "e",
                 "e",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "e",
                 "d",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -468,7 +468,7 @@
                 "v",
                 "e",
                 "e",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -490,7 +490,7 @@
             "placar_oficial_visitante": 2,
             "placar_oficial_mandante": 2,
             "partida_id": 333902,
-            "clube_visitante_posicao": 17,
+            "clube_visitante_posicao": 16,
             "clube_visitante_id": 287,
             "clube_casa_posicao": 11,
             "clube_casa_id": 282,
@@ -528,7 +528,7 @@
             "partida_id": 333903,
             "clube_visitante_posicao": 1,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 13,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 284,
             "timestamp": 1744576200,
             "campeonato_id": 26,
@@ -536,10 +536,10 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
@@ -547,7 +547,7 @@
                 "d",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -564,7 +564,7 @@
             "partida_id": 333904,
             "clube_visitante_posicao": 4,
             "clube_visitante_id": 2305,
-            "clube_casa_posicao": 7,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 265,
             "timestamp": 1744570800,
             "campeonato_id": 26,
@@ -572,11 +572,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "d",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -608,18 +608,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "e",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "v",
                 "v",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
