@@ -384,7 +384,7 @@
             "partida_id": 334019,
             "clube_visitante_posicao": 5,
             "clube_visitante_id": 263,
-            "clube_casa_posicao": 10,
+            "clube_casa_posicao": 11,
             "clube_casa_id": 264,
             "timestamp": 1764529200,
             "campeonato_id": 26,
@@ -431,15 +431,15 @@
                 "e",
                 "e",
                 "e",
-                "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
+                "v",
+                "v",
+                "v",
                 "d",
-                "v",
-                "v",
-                "v",
-                "d"
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
@@ -456,7 +456,7 @@
             "partida_id": 334021,
             "clube_visitante_posicao": 18,
             "clube_visitante_id": 356,
-            "clube_casa_posicao": 9,
+            "clube_casa_posicao": 10,
             "clube_casa_id": 280,
             "timestamp": 1764194400,
             "campeonato_id": 26,
@@ -478,7 +478,7 @@
                 "e"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/25-11-2025/atletico-mg-flamengo.ghtml?utm_source=cartolafc"
             },
             "local": "Arena MRV",
@@ -487,12 +487,12 @@
             "periodo_tr": "",
             "partida_data": "2025-11-25 21:30:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 1,
             "partida_id": 334022,
             "clube_visitante_posicao": 1,
             "clube_visitante_id": 262,
-            "clube_casa_posicao": 11,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 282,
             "timestamp": 1764117000,
             "campeonato_id": 26,
@@ -504,17 +504,17 @@
                 "d",
                 "e",
                 "e",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "e",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/25-11-2025/gremio-palmeiras.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
@@ -523,12 +523,12 @@
             "periodo_tr": "",
             "partida_data": "2025-11-25 21:30:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 3,
             "partida_id": 334023,
             "clube_visitante_posicao": 2,
             "clube_visitante_id": 275,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 284,
             "timestamp": 1764117000,
             "campeonato_id": 26,

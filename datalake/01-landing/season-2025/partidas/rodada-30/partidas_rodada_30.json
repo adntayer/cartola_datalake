@@ -367,7 +367,7 @@
                 "d",
                 "e",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -435,11 +435,11 @@
                 "d"
             ],
             "aproveitamento_mandante": [
+                "v",
+                "v",
+                "v",
                 "d",
-                "v",
-                "v",
-                "v",
-                "d"
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -456,7 +456,7 @@
             "partida_id": 334241,
             "clube_visitante_posicao": 13,
             "clube_visitante_id": 267,
-            "clube_casa_posicao": 9,
+            "clube_casa_posicao": 10,
             "clube_casa_id": 280,
             "timestamp": 1761514200,
             "campeonato_id": 26,
@@ -492,7 +492,7 @@
             "partida_id": 334242,
             "clube_visitante_posicao": 14,
             "clube_visitante_id": 354,
-            "clube_casa_posicao": 11,
+            "clube_casa_posicao": 12,
             "clube_casa_id": 282,
             "timestamp": 1761418800,
             "campeonato_id": 26,
@@ -511,7 +511,7 @@
                 "e",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -528,7 +528,7 @@
             "partida_id": 334243,
             "clube_visitante_posicao": 19,
             "clube_visitante_id": 286,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 284,
             "timestamp": 1761505200,
             "campeonato_id": 26,
@@ -562,7 +562,7 @@
             "placar_oficial_visitante": 1,
             "placar_oficial_mandante": 0,
             "partida_id": 334244,
-            "clube_visitante_posicao": 10,
+            "clube_visitante_posicao": 11,
             "clube_visitante_id": 264,
             "clube_casa_posicao": 16,
             "clube_casa_id": 287,
@@ -582,8 +582,8 @@
                 "e",
                 "e",
                 "e",
-                "e",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
