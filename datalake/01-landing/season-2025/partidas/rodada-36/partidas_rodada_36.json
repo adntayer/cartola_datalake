@@ -284,17 +284,17 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "d",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "e",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -432,17 +432,17 @@
                 "e",
                 "e",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
                 "v",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/26-11-2025/bragantino-fortaleza.ghtml?utm_source=cartolafc"
             },
             "local": "Cícero de Souza Marques",
@@ -451,8 +451,8 @@
             "periodo_tr": "",
             "partida_data": "2025-11-26 19:00:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 1,
+            "placar_oficial_mandante": 0,
             "partida_id": 334021,
             "clube_visitante_posicao": 18,
             "clube_visitante_id": 356,
