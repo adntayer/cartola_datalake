@@ -310,9 +310,9 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 6,
             "partida_id": 334017,
-            "clube_visitante_posicao": 9,
+            "clube_visitante_posicao": 8,
             "clube_visitante_id": 276,
-            "clube_casa_posicao": 5,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 266,
             "timestamp": 1764286200,
             "campeonato_id": 26,
@@ -370,21 +370,21 @@
                 "e"
             ],
             "transmissao": {
-                "label": "ao vivo",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/30-11-2025/corinthians-botafogo.ghtml?utm_source=cartolafc"
             },
             "local": "Neo Química Arena",
-            "status_transmissao_tr": "EM_ANDAMENTO",
-            "status_cronometro_tr": "INICIADO",
-            "periodo_tr": "PRIMEIRO_TEMPO",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-11-30 16:00:00",
-            "inicio_cronometro_tr": "2025-11-30T19:01:36.491Z",
-            "placar_oficial_visitante": 0,
-            "placar_oficial_mandante": 1,
+            "inicio_cronometro_tr": "2025-11-30T21:07:20.540Z",
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 2,
             "partida_id": 334019,
-            "clube_visitante_posicao": 6,
+            "clube_visitante_posicao": 5,
             "clube_visitante_id": 263,
-            "clube_casa_posicao": 8,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 264,
             "timestamp": 1764529200,
             "campeonato_id": 26,
@@ -432,7 +432,7 @@
                 "e",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -475,7 +475,7 @@
                 "e",
                 "d",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
