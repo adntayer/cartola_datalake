@@ -284,11 +284,11 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -320,18 +320,18 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "d",
-                "d",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -435,11 +435,11 @@
                 "v"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "v",
                 "e",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
