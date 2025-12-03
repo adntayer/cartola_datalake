@@ -284,17 +284,17 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "e",
                 "v",
                 "d",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "v",
-                "v",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -302,8 +302,8 @@
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/03-12-2025/flamengo-ceara.ghtml?utm_source=cartolafc"
             },
             "local": "Maracanã",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-12-03 21:30:00",
             "inicio_cronometro_tr": "",
@@ -324,27 +324,27 @@
                 "e",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "d",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/02-12-2025/vasco-mirassol.ghtml?utm_source=cartolafc"
             },
             "local": "São Januário",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-12-02 19:00:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-12-03T00:13:37.620Z",
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 0,
             "partida_id": 333988,
             "clube_visitante_posicao": 4,
             "clube_visitante_id": 2305,
@@ -356,29 +356,29 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "e",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "d",
+                "e",
+                "e",
                 "d",
-                "e",
-                "e",
-                "d"
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/19-11-2025/palmeiras-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Allianz Parque",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-11-19 19:30:00",
-            "inicio_cronometro_tr": "",
+            "inicio_cronometro_tr": "2025-11-20T00:35:31.461Z",
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 0,
             "partida_id": 333989,
@@ -392,26 +392,26 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "e",
                 "v",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
-                "e",
                 "d",
                 "d",
                 "v",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/03-12-2025/sao-paulo-internacional.ghtml?utm_source=cartolafc"
             },
             "local": "Vila Belmiro",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-12-03 20:00:00",
             "inicio_cronometro_tr": "",
@@ -428,29 +428,29 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "d",
                 "e",
-                "d"
+                "d",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
-                "v",
                 "d",
-                "d"
+                "d",
+                "e"
             ],
             "transmissao": {
                 "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/16-11-2025/bragantino-atletico-mg.ghtml?utm_source=cartolafc"
             },
             "local": "Cícero de Souza Marques",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-11-16 19:00:00",
-            "inicio_cronometro_tr": "",
+            "inicio_cronometro_tr": "2025-11-17T00:07:07.496Z",
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 2,
             "partida_id": 333991,
@@ -482,15 +482,15 @@
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/04-12-2025/cruzeiro-botafogo.ghtml?utm_source=cartolafc"
             },
             "local": "Mineirão",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-12-04 19:30:00",
             "inicio_cronometro_tr": "",
             "placar_oficial_visitante": null,
             "placar_oficial_mandante": null,
             "partida_id": 333992,
-            "clube_visitante_posicao": 5,
+            "clube_visitante_posicao": 6,
             "clube_visitante_id": 263,
             "clube_casa_posicao": 3,
             "clube_casa_id": 283,
@@ -504,29 +504,29 @@
                 "v",
                 "e",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "v",
                 "d",
                 "v",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/02-12-2025/gremio-fluminense.ghtml?utm_source=cartolafc"
             },
             "local": "Arena do Grêmio",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
-            "periodo_tr": "",
+            "status_transmissao_tr": "ENCERRADA",
+            "status_cronometro_tr": "PAUSADO",
+            "periodo_tr": "POS_JOGO",
             "partida_data": "2025-12-02 21:30:00",
-            "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "inicio_cronometro_tr": "2025-12-03T02:50:26.701Z",
+            "placar_oficial_visitante": 2,
+            "placar_oficial_mandante": 1,
             "partida_id": 333993,
-            "clube_visitante_posicao": 6,
+            "clube_visitante_posicao": 5,
             "clube_visitante_id": 266,
             "clube_casa_posicao": 10,
             "clube_casa_id": 284,
@@ -540,13 +540,13 @@
                 "d",
                 "d",
                 "d",
-                "d"
+                "e"
             ],
             "aproveitamento_mandante": [
-                "d",
                 "e",
                 "d",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -554,8 +554,8 @@
                 "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/03-12-2025/bahia-sport.ghtml?utm_source=cartolafc"
             },
             "local": "Casa de Apostas Arena Fonte Nova",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-12-03 20:00:00",
             "inicio_cronometro_tr": "",
@@ -573,25 +573,25 @@
         {
             "aproveitamento_visitante": [
                 "d",
-                "d",
                 "v",
                 "d",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
                 "e",
-                "e",
                 "v",
                 "v",
-                "v"
+                "v",
+                "e"
             ],
             "transmissao": {
                 "label": "fique por dentro",
                 "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/03-12-2025/fortaleza-corinthians.ghtml?utm_source=cartolafc"
             },
             "local": "Castelão (CE)",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-12-03 19:00:00",
             "inicio_cronometro_tr": "",
@@ -608,17 +608,17 @@
         },
         {
             "aproveitamento_visitante": [
-                "d",
                 "v",
                 "e",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
-                "v",
                 "e",
                 "d",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -626,8 +626,8 @@
                 "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/03-12-2025/juventude-santos.ghtml?utm_source=cartolafc"
             },
             "local": "Alfredo Jaconi",
-            "status_transmissao_tr": "",
-            "status_cronometro_tr": "",
+            "status_transmissao_tr": "CRIADA",
+            "status_cronometro_tr": "PAUSADO",
             "periodo_tr": "",
             "partida_data": "2025-12-03 19:30:00",
             "inicio_cronometro_tr": "",
