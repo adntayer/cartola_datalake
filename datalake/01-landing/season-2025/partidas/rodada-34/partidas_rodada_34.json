@@ -288,7 +288,7 @@
                 "d",
                 "v",
                 "e",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -324,13 +324,13 @@
                 "d",
                 "d",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
-                "v",
                 "e",
                 "v",
                 "v",
+                "e",
                 "e"
             ],
             "transmissao": {
@@ -348,7 +348,7 @@
             "partida_id": 334118,
             "clube_visitante_posicao": 20,
             "clube_visitante_id": 292,
-            "clube_casa_posicao": 6,
+            "clube_casa_posicao": 7,
             "clube_casa_id": 263,
             "timestamp": 1763508600,
             "campeonato_id": 26,
@@ -360,14 +360,14 @@
                 "d",
                 "v",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "d",
                 "v",
                 "d",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -384,7 +384,7 @@
             "partida_id": 334119,
             "clube_visitante_posicao": 8,
             "clube_visitante_id": 276,
-            "clube_casa_posicao": 9,
+            "clube_casa_posicao": 10,
             "clube_casa_id": 264,
             "timestamp": 1763677800,
             "campeonato_id": 26,
@@ -403,7 +403,7 @@
                 "e",
                 "e",
                 "v",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -420,7 +420,7 @@
             "partida_id": 334120,
             "clube_visitante_posicao": 4,
             "clube_visitante_id": 2305,
-            "clube_casa_posicao": 16,
+            "clube_casa_posicao": 14,
             "clube_casa_id": 277,
             "timestamp": 1763598600,
             "campeonato_id": 26,
@@ -432,17 +432,17 @@
                 "e",
                 "v",
                 "v",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "v",
                 "d",
                 "d",
-                "e"
+                "v"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/03-12-2025/bragantino-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Cícero de Souza Marques",
@@ -451,12 +451,12 @@
             "periodo_tr": "",
             "partida_data": "2025-12-03 19:00:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 0,
+            "placar_oficial_mandante": 4,
             "partida_id": 334121,
-            "clube_visitante_posicao": 15,
+            "clube_visitante_posicao": 17,
             "clube_visitante_id": 287,
-            "clube_casa_posicao": 12,
+            "clube_casa_posicao": 9,
             "clube_casa_id": 280,
             "timestamp": 1764799200,
             "campeonato_id": 26,
@@ -468,17 +468,17 @@
                 "e",
                 "e",
                 "d",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "d",
                 "e",
                 "d",
-                "e"
+                "d"
             ],
             "transmissao": {
-                "label": "fique por dentro",
+                "label": "saiba como foi",
                 "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/03-12-2025/atletico-mg-palmeiras.ghtml?utm_source=cartolafc"
             },
             "local": "Arena MRV",
@@ -487,8 +487,8 @@
             "periodo_tr": "",
             "partida_data": "2025-12-03 21:30:00",
             "inicio_cronometro_tr": "",
-            "placar_oficial_visitante": null,
-            "placar_oficial_mandante": null,
+            "placar_oficial_visitante": 3,
+            "placar_oficial_mandante": 0,
             "partida_id": 334122,
             "clube_visitante_posicao": 2,
             "clube_visitante_id": 275,
@@ -526,9 +526,9 @@
             "placar_oficial_visitante": 0,
             "placar_oficial_mandante": 2,
             "partida_id": 334123,
-            "clube_visitante_posicao": 11,
+            "clube_visitante_posicao": 12,
             "clube_visitante_id": 267,
-            "clube_casa_posicao": 10,
+            "clube_casa_posicao": 11,
             "clube_casa_id": 284,
             "timestamp": 1763598600,
             "campeonato_id": 26,
@@ -540,14 +540,14 @@
                 "v",
                 "v",
                 "v",
-                "e"
+                "v"
             ],
             "aproveitamento_mandante": [
                 "e",
                 "d",
                 "v",
                 "e",
-                "e"
+                "v"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -562,9 +562,9 @@
             "placar_oficial_visitante": 3,
             "placar_oficial_mandante": 2,
             "partida_id": 334124,
-            "clube_visitante_posicao": 18,
+            "clube_visitante_posicao": 16,
             "clube_visitante_id": 356,
-            "clube_casa_posicao": 7,
+            "clube_casa_posicao": 6,
             "clube_casa_id": 265,
             "timestamp": 1763672400,
             "campeonato_id": 26,
@@ -576,14 +576,14 @@
                 "v",
                 "e",
                 "d",
-                "e"
+                "d"
             ],
             "aproveitamento_mandante": [
                 "v",
                 "d",
                 "d",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
@@ -598,9 +598,9 @@
             "placar_oficial_visitante": 2,
             "placar_oficial_mandante": 1,
             "partida_id": 334125,
-            "clube_visitante_posicao": 17,
+            "clube_visitante_posicao": 18,
             "clube_visitante_id": 285,
-            "clube_casa_posicao": 14,
+            "clube_casa_posicao": 15,
             "clube_casa_id": 354,
             "timestamp": 1763685000,
             "campeonato_id": 26,
@@ -608,10 +608,10 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "e",
                 "v",
+                "e",
                 "e"
             ],
             "aproveitamento_mandante": [
@@ -619,7 +619,7 @@
                 "e",
                 "d",
                 "e",
-                "e"
+                "d"
             ],
             "transmissao": {
                 "label": "saiba como foi",
