@@ -284,11 +284,11 @@
     "partidas": [
         {
             "aproveitamento_visitante": [
-                "v",
                 "d",
                 "v",
                 "e",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "e",
@@ -392,11 +392,11 @@
         },
         {
             "aproveitamento_visitante": [
-                "v",
                 "e",
                 "v",
                 "d",
-                "v"
+                "v",
+                "e"
             ],
             "aproveitamento_mandante": [
                 "v",
@@ -442,7 +442,7 @@
                 "v"
             ],
             "transmissao": {
-                "label": "saiba como foi",
+                "label": "fique por dentro",
                 "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/03-12-2025/bragantino-vitoria.ghtml?utm_source=cartolafc"
             },
             "local": "Cícero de Souza Marques",
