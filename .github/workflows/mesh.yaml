@@ -2,8 +2,8 @@ name: Mesh Run
 
 on:
   workflow_dispatch: null
-  schedule:
-    - cron: '15 10,19 * * *'
+  # schedule:
+    # - cron: '15 10,19 * * *'
 
 jobs:
   ### ATLETAS MERCADO
